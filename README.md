@@ -2,13 +2,15 @@
 
 List of awesome people offering their time **for free** to have a "coffee chat" with others about different topics, mostly in a mentorship kind of way.
 
+**Important**: this is not a list to promote your paid services. It is like free as in beer...
+
 - **[Frédéric Harper](https://calendly.com/fharper/coffee) ([LinkedIn](https://www.linkedin.com/in/fredericharper), [Twitter](https://twitter.com/fharper)), Director of Developer Relations at Mindee:** Open-Source, SaaS Architecture, Developer Relations, Developers Documentation, Community Building, Personal Branding, Starting in Tech, Job Search, Cats, Coffee, Microbrewery Beer, Travelling, Mental Health, Anything else)
 
 ## Add yourself to this list
 
 To add your name to this list, you simply need to add another person object in [people.json](people.json). You can simply copy someone else, and change the information. If you don't want to share a piece of information, just leave the value of the field empty. Once done, please do a pull request. If you have no idea how all this works, you can simply send me your information by [email](mailto:hi@fred.dev), and I'll add you to the list myself with pleasure.
 
-⚠️ **Warning**: only add yourself to this list!
+**Warning**: only add yourself to this list!
 
 ## Remove yourself from this list
 
