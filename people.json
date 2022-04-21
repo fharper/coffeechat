@@ -11,6 +11,18 @@
 			"scheduling": "https://calendly.com/fharper/coffee",
 			"online-only": false,
 			"topics": ["Open-Source", "SaaS Architecture", "Developer Relations", "Developers Documentation", "Community Building", "Personal Branding", "Starting in Tech", "Job Search", "Cats", "Coffee", "Microbrewery Beer", "Travelling", "Mental Health", "Anything else"]
+		},
+		{
+			"name": "Richard Moot",
+			"title": "Head of Developer Advocacy",
+			"company": "Square @ Block, Inc.",
+			"city": "Oakland",
+			"country": "United States of America",
+			"linkedin": "https://www.linkedin.com/in/richardmoot",
+			"twitter": "https://twitter.com/wootmoot",
+			"scheduling": "https://calendly.com/moot-square/30min",
+			"online-only": false,
+			"topics": ["Open-Source", "Video", "Developer Video", "API Design", "Developer Relations", "Developers Content", "Starting in Tech", "Job Search", "Cats", "Coffee", "Beer", "Travel", "Anything else"]
 		}
 	]
 }
