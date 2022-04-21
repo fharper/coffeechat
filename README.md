@@ -6,6 +6,7 @@ List of awesome people offering their time **for free** to have a "coffee chat" 
 
 - **[Frédéric Harper](https://calendly.com/fharper/coffee) ([LinkedIn](https://www.linkedin.com/in/fredericharper), [Twitter](https://twitter.com/fharper)), Director of Developer Relations at Mindee:** Open-Source, SaaS Architecture, Developer Relations, Developers Documentation, Community Building, Personal Branding, Starting in Tech, Job Search, Cats, Coffee, Microbrewery Beer, Travelling, Mental Health, Anything else)
 - **[Richard Moot](https://calendly.com/moot-square/30min) ([LinkedIn](https://www.linkedin.com/in/richardmoot), [Twitter](https://twitter.com/wootmoot)), Head of Developer Advocacy at Square @ Block, Inc.:** Open-Source, Video, Developer Video, API Design, Developer Relations, Developers Content, Starting in Tech, Job Search, Cats, Coffee, Beer, Travel, Anything else)
+- **[Zachary Powell](https://calendar.google.com/calendar/appointments/schedules/AcZssZ2e3yzS9KLzlaRJHFpPg4_v6oIQb6P-WHYTxc1UuS5Zd1KqulrNK9aZwss92bCDOfnIhvym1/1vvmv) ([LinkedIn](https://www.linkedin.com/in/zachary-mg-powell), [Twitter](https://twitter.com/devwithzachary)), Sr Android Developer Advocate at Vonage:** DevRel, Developer Relations, Android, Starting in Tech, Job Searching, Mobile, Tech, Software Engineering)
 
 ## Add yourself to this list
 
