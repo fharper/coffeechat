@@ -12,7 +12,7 @@ json.people.sort(function (a, b) {
 
 //Generate with proper formating
 const peopleList = json.people.map(people =>
-	`- **[${people.name}](${people.scheduling}) (${(people.linkedin ? "[LinkedIn](" + people.linkedin + "), " : "")}${(people.twitter ? "[Twitter](" + people.twitter + ")" : "")}), ${people.title} at ${people.company}:** ${people.topics.join(', ')})`
+	`- **[${people.name}](${people.scheduling}) (${(people.linkedin ? "[LinkedIn](" + people.linkedin + "), " : "")}${(people.twitter ? "[Twitter](" + people.twitter + ")" : "")}), ${people.title} at ${people.company}:** ${people.topics.join(', ')}`
 ).join('\r\n');
 
 //Write README.md
