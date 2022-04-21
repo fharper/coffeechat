@@ -28,3 +28,7 @@ I put this up quickly, and don't have more time this week to finalize what I had
 - Create pull request template
 - Create a CONTRIBUTION.md
 - Better formatting of the list including city & country (suggestions welcome here).
+
+## Acknoledgements
+
+The idea of a coffee chat resource list is  coming from [Julien Lengrand-Lambert.](https://www.linkedin.com/in/julienlengrand/).
