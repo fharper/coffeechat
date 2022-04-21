@@ -1,0 +1,16 @@
+{
+	"people": [
+		{
+			"name": "Frédéric Harper",
+			"title": "Director of Developer Relations",
+			"company": "Mindee",
+			"city": "Montréal",
+			"country": "Canada",
+			"linkedin": "https://www.linkedin.com/in/fredericharper",
+			"twitter": "https://twitter.com/fharper",
+			"scheduling": "https://calendly.com/fharper/coffee",
+			"online-only": false,
+			"topics": ["Open-Source", "SaaS Architecture", "Developer Relations", "Developers Documentation", "Community Building", "Personal Branding", "Starting in Tech", "Job Search", "Cats", "Coffee", "Microbrewery Beer", "Travelling", "Mental Health", "Anything else"]
+		}
+	]
+}
