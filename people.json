@@ -23,6 +23,18 @@
 			"scheduling": "https://calendly.com/moot-square/30min",
 			"online-only": false,
 			"topics": ["Open-Source", "Video", "Developer Video", "API Design", "Developer Relations", "Developers Content", "Starting in Tech", "Job Search", "Cats", "Coffee", "Beer", "Travel", "Anything else"]
+		},
+		{
+			"name": "Josef Holzmayr",
+			"title": "Head of Developer Relations",
+			"company": "Northern.tech",
+			"city": "Munich",
+			"country": "Germany",
+			"linkedin": "www.linkedin.com/in/josef-holzmayr",
+			"twitter": "https://twitter.com/theyoctojester",
+			"scheduling": "https://calendly.com/theyoctojester/mender-office-hour",
+			"online-only": false,
+			"topics": ["Open-Source", "Embedded Linux", "Yocto", "OpenEmbedded", "OTA Updates", "Developer Relations", "IoT", "Livecoding", "Beer", "Heavy Metal", "Anything else"]
 		}
 	]
 }
