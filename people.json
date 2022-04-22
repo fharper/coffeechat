@@ -35,6 +35,18 @@
 			"scheduling": "https://calendar.google.com/calendar/appointments/schedules/AcZssZ2e3yzS9KLzlaRJHFpPg4_v6oIQb6P-WHYTxc1UuS5Zd1KqulrNK9aZwss92bCDOfnIhvym1/1vvmv",
 			"online-only": false,
 			"topics": ["DevRel", "Developer Relations", "Android", "Starting in Tech", "Job Searching", "Mobile", "Tech", "Software Engineering"]
-		}
+		},		
+		{
+			"name": "Rene Pot",
+			"title": "Senior Developer Advocate",
+			"company": "Budibase",
+			"city": "Rotterdam",
+			"country": "Netherlands",
+			"linkedin": "https://www.linkedin.com/in/wraldpyk/",
+			"twitter": "https://twitter.com/wraldpyk",
+			"scheduling": "https://calendar.google.com/calendar/appointments/schedules/AcZssZ2j2HSqAeHfTXLKLdq5VyE-3lCrbIBLtL7DWAk6VrAkJfC5GVFEFI8cHAhUeIkbqFe1l3hmhm6A",
+			"online-only": false,
+			"topics": ["Open-Source", "Low-Code", "No-Code", "Twitch", "Mobile Development", "Developer Relations", "Coffee", "Wisky", "Moving Abroad", "Casual Conversation"]
+		},
 	]
 }
