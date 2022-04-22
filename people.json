@@ -1,40 +1,100 @@
 {
 	"people": [
-		{
-			"name": "Frédéric Harper",
-			"title": "Director of Developer Relations",
-			"company": "Mindee",
-			"city": "Montréal",
-			"country": "Canada",
-			"linkedin": "https://www.linkedin.com/in/fredericharper",
-			"twitter": "https://twitter.com/fharper",
-			"scheduling": "https://calendly.com/fharper/coffee",
-			"online-only": false,
-			"topics": ["Open-Source", "SaaS Architecture", "Developer Relations", "Developers Documentation", "Community Building", "Personal Branding", "Starting in Tech", "Job Search", "Cats", "Coffee", "Microbrewery Beer", "Travelling", "Mental Health", "Anything else"]
-		},
-		{
-			"name": "Richard Moot",
-			"title": "Head of Developer Advocacy",
-			"company": "Square @ Block, Inc.",
-			"city": "Oakland",
-			"country": "United States of America",
-			"linkedin": "https://www.linkedin.com/in/richardmoot",
-			"twitter": "https://twitter.com/wootmoot",
-			"scheduling": "https://calendly.com/moot-square/30min",
-			"online-only": false,
-			"topics": ["Open-Source", "Video", "Developer Video", "API Design", "Developer Relations", "Developers Content", "Starting in Tech", "Job Search", "Cats", "Coffee", "Beer", "Travel", "Anything else"]
-		},
-		{
-			"name": "Zachary Powell",
-			"title": "Sr Android Developer Advocate",
-			"company": "Vonage",
-			"city": "London",
-			"country": "England",
-			"linkedin": "https://www.linkedin.com/in/zachary-mg-powell",
-			"twitter": "https://twitter.com/devwithzachary",
-			"scheduling": "https://calendar.google.com/calendar/appointments/schedules/AcZssZ2e3yzS9KLzlaRJHFpPg4_v6oIQb6P-WHYTxc1UuS5Zd1KqulrNK9aZwss92bCDOfnIhvym1/1vvmv",
-			"online-only": false,
-			"topics": ["DevRel", "Developer Relations", "Android", "Starting in Tech", "Job Searching", "Mobile", "Tech", "Software Engineering"]
-		}
-	]
+        {
+            "name": "Frédéric Harper",
+            "title": "Director of Developer Relations",
+            "company": "Mindee",
+            "city": "Montréal",
+            "country": "Canada",
+            "linkedin": "https://www.linkedin.com/in/fredericharper",
+            "twitter": "https://twitter.com/fharper",
+            "scheduling": "https://calendly.com/fharper/coffee",
+            "online-only": false,
+            "topics": [
+                "Open-Source",
+                "SaaS Architecture",
+                "Developer Relations",
+                "Developers Documentation",
+                "Community Building",
+                "Personal Branding",
+                "Starting in Tech",
+                "Job Search",
+                "Cats",
+                "Coffee",
+                "Microbrewery Beer",
+                "Travelling",
+                "Mental Health",
+                "Anything else"
+            ]
+        },
+        {
+            "name": "Richard Moot",
+            "title": "Head of Developer Advocacy",
+            "company": "Square @ Block, Inc.",
+            "city": "Oakland",
+            "country": "United States of America",
+            "linkedin": "https://www.linkedin.com/in/richardmoot",
+            "twitter": "https://twitter.com/wootmoot",
+            "scheduling": "https://calendly.com/moot-square/30min",
+            "online-only": false,
+            "topics": [
+                "Open-Source",
+                "Video",
+                "Developer Video",
+                "API Design",
+                "Developer Relations",
+                "Developers Content",
+                "Starting in Tech",
+                "Job Search",
+                "Cats",
+                "Coffee",
+                "Beer",
+                "Travel",
+                "Anything else"
+            ]
+        },
+        {
+            "name": "Zachary Powell",
+            "title": "Sr Android Developer Advocate",
+            "company": "Vonage",
+            "city": "London",
+            "country": "England",
+            "linkedin": "https://www.linkedin.com/in/zachary-mg-powell",
+            "twitter": "https://twitter.com/devwithzachary",
+            "scheduling": "https://calendar.google.com/calendar/appointments/schedules/AcZssZ2e3yzS9KLzlaRJHFpPg4_v6oIQb6P-WHYTxc1UuS5Zd1KqulrNK9aZwss92bCDOfnIhvym1/1vvmv",
+            "online-only": false,
+            "topics": [
+                "DevRel",
+                "Developer Relations",
+                "Android",
+                "Starting in Tech",
+                "Job Searching",
+                "Mobile",
+                "Tech",
+                "Software Engineering"
+            ]
+        },
+        {
+            "name": "Anthony Dellavecchia",
+            "title": "Developer Evangelist, Staff",
+            "company": "Twilio",
+            "city": "Seattle",
+            "country": "United States of America",
+            "linkedin": "https://www.linkedin.com/in/anthonydellavecchia",
+            "twitter": "https://twitter.com/anthonyjdella",
+            "scheduling": "https://calendly.com/anthonyjdella/chat",
+            "online-only": false,
+            "topics": [
+                "Software Engineering",
+                "Developer Relations",
+                "Developers Documentation",
+                "Community Building",
+                "Personal Branding",
+                "Starting in Tech",
+                "Job Search",
+                "Mental Health",
+                "Imposter Syndrome"
+            ]
+        }
+    ]
 }
