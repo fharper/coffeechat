@@ -32,6 +32,7 @@
 			"company": "Northern.tech",
 			"city": "Munich",
 			"country": "Germany",
+			"languages": ["English", "German"],
 			"linkedin": "https://www.linkedin.com/in/josef-holzmayr",
 			"twitter": "https://twitter.com/theyoctojester",
 			"scheduling": "https://calendly.com/theyoctojester/mender-office-hour",
