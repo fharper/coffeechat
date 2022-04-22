@@ -37,6 +37,18 @@
 			"topics": ["DevRel", "Developer Relations", "Android", "Starting in Tech", "Job Searching", "Mobile", "Tech", "Software Engineering"]
 		},
 		{
+      "name": "Shannon Lal",
+      "title": "Director, Journey Technical Lead",
+      "company": "RBC",
+      "city": "Montreal",
+      "country": "Canada",
+      "linkedin": "https://www.linkedin.com/in/shannonlal",
+      "twitter": "https://twitter.com/shannondlal",
+      "scheduling": "https://calendly.com/shannonlal/30min",
+      "online-only": false,
+      "topics": ["Starting in Tech", "Job Searching", "Web", "Dev Ops", "React", "Tech", "NodeJS", "Software Engineering"]
+    },
+    {
 			"name": "Baskar Rao Dandlamudi",
 			"title": "Solutions Architect",
 			"company": "Perficient",
