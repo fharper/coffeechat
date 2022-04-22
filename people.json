@@ -6,6 +6,7 @@
 			"company": "Mindee",
 			"city": "Montréal",
 			"country": "Canada",
+			"languages": ["English", "French"],
 			"linkedin": "https://www.linkedin.com/in/fredericharper",
 			"twitter": "https://twitter.com/fharper",
 			"scheduling": "https://calendly.com/fharper/coffee",
@@ -18,6 +19,7 @@
 			"company": "Square @ Block, Inc.",
 			"city": "Oakland",
 			"country": "United States of America",
+			"languages": ["English"],
 			"linkedin": "https://www.linkedin.com/in/richardmoot",
 			"twitter": "https://twitter.com/wootmoot",
 			"scheduling": "https://calendly.com/moot-square/30min",
@@ -54,6 +56,7 @@
 			"company": "Budibase",
 			"city": "Rotterdam",
 			"country": "Netherlands",
+			"languages": ["English"],
 			"linkedin": "https://www.linkedin.com/in/wraldpyk/",
 			"twitter": "https://twitter.com/wraldpyk",
 			"scheduling": "https://calendar.google.com/calendar/appointments/schedules/AcZssZ2j2HSqAeHfTXLKLdq5VyE-3lCrbIBLtL7DWAk6VrAkJfC5GVFEFI8cHAhUeIkbqFe1l3hmhm6A",
@@ -66,25 +69,27 @@
 			"company": "AWS",
 			"city": "London",
 			"country": "England",
+			"languages": ["English"],
 			"linkedin": "https://www.linkedin.com/in/ricardosueiras",
 			"twitter": "https://twitter.com/094459",
 			"scheduling": "https://calendly.com/ricardo-sueiras/you-are-amazing",
 			"online-only": false,
 			"topics": ["Open Source", "Developer Relations", "Innovation", "Cloud", "Mentoring", "Education"]
 		},
-    {
-      "name": "Shannon Lal",
-      "title": "Director, Journey Technical Lead",
-      "company": "RBC",
-      "city": "Montreal",
-      "country": "Canada",
-      "linkedin": "https://www.linkedin.com/in/shannonlal",
-      "twitter": "https://twitter.com/shannondlal",
-      "scheduling": "https://calendly.com/shannonlal/30min",
-      "online-only": false,
-      "topics": ["Starting in Tech", "Job Searching", "Web", "Dev Ops", "React", "Tech", "NodeJS", "Software Engineering"]
-    },
-    {
+		{
+			"name": "Shannon Lal",
+			"title": "Director, Journey Technical Lead",
+			"company": "RBC",
+			"city": "Montreal",
+			"country": "Canada",
+			"languages": ["English"],
+			"linkedin": "https://www.linkedin.com/in/shannonlal",
+			"twitter": "https://twitter.com/shannondlal",
+			"scheduling": "https://calendly.com/shannonlal/30min",
+			"online-only": false,
+			"topics": ["Starting in Tech", "Job Searching", "Web", "Dev Ops", "React", "Tech", "NodeJS", "Software Engineering"]
+		},
+		{
 			"name": "Baskar Rao Dandlamudi",
 			"title": "Solutions Architect",
 			"company": "Perficient",
@@ -96,27 +101,28 @@
 			"online-only": false,
 			"topics": ["Application Development", "Starting in Tech", "Job Searching", "Mobile", "Tech", "Software Engineering"]
 		},
-    {
-      "name": "Anthony Dellavecchia",
-      "title": "Developer Evangelist, Staff",
-      "company": "Twilio",
-      "city": "Seattle",
-      "country": "United States of America",
-      "linkedin": "https://www.linkedin.com/in/anthonydellavecchia",
-      "twitter": "https://twitter.com/anthonyjdella",
-      "scheduling": "https://calendly.com/anthonyjdella/chat",
-      "online-only": false,
-      "topics": [
-          "Software Engineering",
-          "Developer Relations",
-          "Developers Documentation",
-          "Community Building",
-          "Personal Branding",
-          "Starting in Tech",
-          "Job Search",
-          "Mental Health",
-          "Imposter Syndrome"
-      ]
-    }
+		{
+			"name": "Anthony Dellavecchia",
+			"title": "Developer Evangelist, Staff",
+			"company": "Twilio",
+			"city": "Seattle",
+			"country": "United States of America",
+			"languages": ["English"],
+			"linkedin": "https://www.linkedin.com/in/anthonydellavecchia",
+			"twitter": "https://twitter.com/anthonyjdella",
+			"scheduling": "https://calendly.com/anthonyjdella/chat",
+			"online-only": false,
+			"topics": [
+				"Software Engineering",
+				"Developer Relations",
+				"Developers Documentation",
+				"Community Building",
+				"Personal Branding",
+				"Starting in Tech",
+				"Job Search",
+				"Mental Health",
+				"Imposter Syndrome"
+			]
+		}
 	]
 }
