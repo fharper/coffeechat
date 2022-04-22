@@ -1,8 +1,12 @@
 'use strict;'
 const fs = require('fs');
+const appRoot = require('app-root-path');
+let path = require('path');
 
 //Get the data
-const data = fs.readFileSync('../people.json');
+path = path.parse(appRoot.path);
+parentFolderPath = path.dir.split(path.sep).pop();
+const data = fs.readFileSync(`${parentFolderPath}/people.json`);
 const json = JSON.parse(data);
 
 //Order by name
@@ -16,5 +20,5 @@ const peopleList = json.people.map(people =>
 ).join('\r\n');
 
 //Write README.md
-const template = fs.readFileSync('README-TEMPLATE.md', 'utf8');
-fs.writeFileSync('../README.md', template.replace('PLACEHOLDER', peopleList));
+const template = fs.readFileSync(`${appRoot}/README-TEMPLATE.md`, 'utf8');
+fs.writeFileSync(`${parentFolderPath}/README.md`, template.replace('PLACEHOLDER', peopleList));
