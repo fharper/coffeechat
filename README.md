@@ -4,8 +4,12 @@ List of awesome people offering their time **for free** to have a "coffee chat" 
 
 **Important**: this is not a list to promote your paid services. It is like free as in beer...
 
-- **[Frédéric Harper](https://calendly.com/fharper/coffee) ([LinkedIn](https://www.linkedin.com/in/fredericharper), [Twitter](https://twitter.com/fharper)), Director of Developer Relations at Mindee:** Open-Source, SaaS Architecture, Developer Relations, Developers Documentation, Community Building, Personal Branding, Starting in Tech, Job Search, Cats, Coffee, Microbrewery Beer, Travelling, Mental Health, Anything else)
-- **[Richard Moot](https://calendly.com/moot-square/30min) ([LinkedIn](https://www.linkedin.com/in/richardmoot), [Twitter](https://twitter.com/wootmoot)), Head of Developer Advocacy at Square @ Block, Inc.:** Open-Source, Video, Developer Video, API Design, Developer Relations, Developers Content, Starting in Tech, Job Search, Cats, Coffee, Beer, Travel, Anything else)
+- **[Anthony Dellavecchia](https://calendly.com/anthonyjdella/chat) ([LinkedIn](https://www.linkedin.com/in/anthonydellavecchia), [Twitter](https://twitter.com/anthonyjdella)), Developer Evangelist, Staff at Twilio:** Software Engineering, Developer Relations, Developers Documentation, Community Building, Personal Branding, Starting in Tech, Job Search, Mental Health, Imposter Syndrome
+- **[Baskar Rao Dandlamudi](https://calendly.com/baskarmib/30min) ([LinkedIn](https://www.linkedin.com/in/baskarrao-dandlamudi/), [Twitter](https://twitter.com/baskarmib)), Solutions Architect at Perficient:** Application Development, Starting in Tech, Job Searching, Mobile, Tech, Software Engineering
+- **[Frédéric Harper](https://calendly.com/fharper/coffee) ([LinkedIn](https://www.linkedin.com/in/fredericharper), [Twitter](https://twitter.com/fharper)), Director of Developer Relations at Mindee:** Open-Source, SaaS Architecture, Developer Relations, Developers Documentation, Community Building, Personal Branding, Starting in Tech, Job Search, Cats, Coffee, Microbrewery Beer, Travelling, Mental Health, Anything else
+- **[Richard Moot](https://calendly.com/moot-square/30min) ([LinkedIn](https://www.linkedin.com/in/richardmoot), [Twitter](https://twitter.com/wootmoot)), Head of Developer Advocacy at Square @ Block, Inc.:** Open-Source, Video, Developer Video, API Design, Developer Relations, Developers Content, Starting in Tech, Job Search, Cats, Coffee, Beer, Travel, Anything else
+- **[Shannon Lal](https://calendly.com/shannonlal/30min) ([LinkedIn](https://www.linkedin.com/in/shannonlal), [Twitter](https://twitter.com/shannondlal)), Director, Journey Technical Lead at RBC:** Starting in Tech, Job Searching, Web, Dev Ops, React, Tech, NodeJS, Software Engineering
+- **[Zachary Powell](https://calendar.google.com/calendar/appointments/schedules/AcZssZ2e3yzS9KLzlaRJHFpPg4_v6oIQb6P-WHYTxc1UuS5Zd1KqulrNK9aZwss92bCDOfnIhvym1/1vvmv) ([LinkedIn](https://www.linkedin.com/in/zachary-mg-powell), [Twitter](https://twitter.com/devwithzachary)), Sr Android Developer Advocate at Vonage:** DevRel, Developer Relations, Android, Starting in Tech, Job Searching, Mobile, Tech, Software Engineering
 
 ## Add yourself to this list
 
@@ -29,3 +33,7 @@ I put this up quickly, and don't have more time this week to finalize what I had
 - Create pull request template
 - Create a CONTRIBUTION.md
 - Better formatting of the list including city & country (suggestions welcome here).
+
+## Acknoledgements
+
+The idea of a coffee chat resource list is  coming from [Julien Lengrand-Lambert.](https://www.linkedin.com/in/julienlengrand/).
