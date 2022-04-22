@@ -49,6 +49,18 @@
 			"topics": ["DevRel", "Developer Relations", "Android", "Starting in Tech", "Job Searching", "Mobile", "Tech", "Software Engineering"]
 		},
 		{
+			"name": "Ricardo Sueiras",
+			"title": "Developer Advocate",
+			"company": "AWS",
+			"city": "London",
+			"country": "England",
+			"linkedin": "https://www.linkedin.com/in/ricardosueiras",
+			"twitter": "https://twitter.com/094459",
+			"scheduling": "https://calendly.com/ricardo-sueiras/you-are-amazing",
+			"online-only": false,
+			"topics": ["Open Source", "Developer Relations", "Innovation", "Cloud", "Mentoring", "Education"]
+		},
+    {
       "name": "Shannon Lal",
       "title": "Director, Journey Technical Lead",
       "company": "RBC",
