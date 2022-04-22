@@ -25,6 +25,18 @@
 			"topics": ["Open-Source", "Video", "Developer Video", "API Design", "Developer Relations", "Developers Content", "Starting in Tech", "Job Search", "Cats", "Coffee", "Beer", "Travel", "Anything else"]
 		},
 		{
+			"name": "Josef Holzmayr",
+			"title": "Head of Developer Relations",
+			"company": "Northern.tech",
+			"city": "Munich",
+			"country": "Germany",
+			"linkedin": "https://www.linkedin.com/in/josef-holzmayr",
+			"twitter": "https://twitter.com/theyoctojester",
+			"scheduling": "https://calendly.com/theyoctojester/mender-office-hour",
+			"online-only": false,
+			"topics": ["Open-Source", "Embedded Linux", "Yocto", "OpenEmbedded", "OTA Updates", "Developer Relations", "IoT", "Livecoding", "Beer", "Heavy Metal", "Anything else"]
+		},
+		{
 			"name": "Zachary Powell",
 			"title": "Sr Android Developer Advocate",
 			"company": "Vonage",
@@ -48,5 +60,63 @@
 			"online-only": false,
 			"topics": ["Open-Source", "Low-Code", "No-Code", "Twitch", "Mobile Development", "Developer Relations", "Coffee", "Wisky", "Moving Abroad", "Casual Conversation"]
 		},
+		{
+			"name": "Ricardo Sueiras",
+			"title": "Developer Advocate",
+			"company": "AWS",
+			"city": "London",
+			"country": "England",
+			"linkedin": "https://www.linkedin.com/in/ricardosueiras",
+			"twitter": "https://twitter.com/094459",
+			"scheduling": "https://calendly.com/ricardo-sueiras/you-are-amazing",
+			"online-only": false,
+			"topics": ["Open Source", "Developer Relations", "Innovation", "Cloud", "Mentoring", "Education"]
+		},
+    {
+      "name": "Shannon Lal",
+      "title": "Director, Journey Technical Lead",
+      "company": "RBC",
+      "city": "Montreal",
+      "country": "Canada",
+      "linkedin": "https://www.linkedin.com/in/shannonlal",
+      "twitter": "https://twitter.com/shannondlal",
+      "scheduling": "https://calendly.com/shannonlal/30min",
+      "online-only": false,
+      "topics": ["Starting in Tech", "Job Searching", "Web", "Dev Ops", "React", "Tech", "NodeJS", "Software Engineering"]
+    },
+    {
+			"name": "Baskar Rao Dandlamudi",
+			"title": "Solutions Architect",
+			"company": "Perficient",
+			"city": "Columbus, Ohio",
+			"country": "United States of America ",
+			"linkedin": "https://www.linkedin.com/in/baskarrao-dandlamudi/",
+			"twitter": "https://twitter.com/baskarmib",
+			"scheduling": "https://calendly.com/baskarmib/30min",
+			"online-only": false,
+			"topics": ["Application Development", "Starting in Tech", "Job Searching", "Mobile", "Tech", "Software Engineering"]
+		},
+    {
+      "name": "Anthony Dellavecchia",
+      "title": "Developer Evangelist, Staff",
+      "company": "Twilio",
+      "city": "Seattle",
+      "country": "United States of America",
+      "linkedin": "https://www.linkedin.com/in/anthonydellavecchia",
+      "twitter": "https://twitter.com/anthonyjdella",
+      "scheduling": "https://calendly.com/anthonyjdella/chat",
+      "online-only": false,
+      "topics": [
+          "Software Engineering",
+          "Developer Relations",
+          "Developers Documentation",
+          "Community Building",
+          "Personal Branding",
+          "Starting in Tech",
+          "Job Search",
+          "Mental Health",
+          "Imposter Syndrome"
+      ]
+    }
 	]
 }
