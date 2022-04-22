@@ -35,7 +35,8 @@
 			"scheduling": "https://calendly.com/theyoctojester/mender-office-hour",
 			"online-only": false,
 			"topics": ["Open-Source", "Embedded Linux", "Yocto", "OpenEmbedded", "OTA Updates", "Developer Relations", "IoT", "Livecoding", "Beer", "Heavy Metal", "Anything else"]
-		}
+		},
+		{
 			"name": "Zachary Powell",
 			"title": "Sr Android Developer Advocate",
 			"company": "Vonage",
