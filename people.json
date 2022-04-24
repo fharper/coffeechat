@@ -152,6 +152,28 @@
 				"Kotlin",
 				"Anything, really"
 			]
-		}
+		},
+		{
+			"name": "Mike Staffa",
+			"title": "Product Manager",
+			"company": "Zeals",
+			"city": "Tokyo",
+			"country": "Japan",
+			"languages": ["English"],
+			"linkedin": "https://www.linkedin.com/in/mikestaffa/",
+			"twitter": "https://twitter.com/mtstaffa",
+			"scheduling": "https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ2ORDYuLhQBn4UgTLumBjC8UgC_lAIItfA3upgMX6TR-NlL-JkwZNz7z8aHy2n05ilPfycvPqkT",
+			"online-only": false,
+			"topics": [
+				"Cross-Cultural Communication",
+				"Community Building",
+				"Personal Branding",
+				"Starting in Tech",
+				"Job Search",
+				"Japan",
+				"Chatbots",
+				"Nutrition"
+			]
+		},
 	]
 }
