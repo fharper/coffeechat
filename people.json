@@ -293,6 +293,32 @@
                 "Chatbots",
                 "Nutrition"
             ]
-        }
+        },
+        {
+            "name": "Jody Winter",
+            "title": "Technical Writer",
+            "company": "Affinity Employer Services/Freelancing",
+            "city": "Auckland",
+            "country": "New Zealand",
+            "languages": ["English"],
+            "linkedin": "https://www.linkedin.com/in/jody-winter/",
+            "twitter": "",
+            "website": "https://jodywinter.com/",
+            "scheduling": "mailto:jodywinter@xtra.co.nz",
+            "online-only": true,
+            "topics": [
+                "Technical Writing",
+                "Editing for Clarity and Concision",
+                "Writing for End-Users",
+                "Structuring Content",
+                "Documenting REST APIs",
+                "Docs-as-Code",
+                "Career Transitions",
+                "Skills Development",
+                "Freelancing While Fully Employed",
+                "Gen X Women in Tech",
+                "Working in New Zealand"
+            ]
+}
     ]
 }
