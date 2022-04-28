@@ -16,6 +16,24 @@ To add your name to this list, you simply need to add another person object in [
 
 Simply create a pull request by removing your people definition from [people.json](people.json). As for adding yourself to the list if you are not a technical person, just send me an [email](mailto:hi@fred.dev) and I'll do it for you.
 
+## People JSON Format Changelog
+
+- **2022-04-22:** add **`languages`** (Array of String)
+- **2022-04-21:** initial JSON including:
+  - **`name`** (String)
+  - `title` (String)
+  - `company` (String)
+  - `city` (String)
+  - `country` (String)
+  - **`languages`** (Array of String)
+  - **`linkedin`** (String)
+  - `twitter` (String)
+  - **`scheduling`** (String)
+  - **`online-only`** (Boolean)  
+  - **`topics`** (Array of String)
+
+_The properties in bold are required_
+
 ## Future plans
 
 I put this up quickly, and don't have more time this week to finalize what I had in mind, so here's some things left to do.
@@ -27,7 +45,7 @@ I put this up quickly, and don't have more time this week to finalize what I had
 - Add GitHub Action for links validation
 - Create pull request template
 - Create a CONTRIBUTION.md
-- Better formatting of the list including languages, city & country (suggestions welcome here).
+- Better formatting of the list including languages, website, city & country (suggestions welcome here)
 
 ## Acknoledgements
 
