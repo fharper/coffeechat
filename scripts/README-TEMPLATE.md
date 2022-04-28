@@ -18,19 +18,24 @@ Simply create a pull request by removing your people definition from [people.jso
 
 ## People JSON Format Changelog
 
-- **2022-04-22:** add **`languages`** (Array of String)
-- **2022-04-21:** initial JSON including:
-  - **`name`** (String)
-  - `title` (String)
-  - `company` (String)
-  - `city` (String)
-  - `country` (String)
-  - **`languages`** (Array of String)
-  - **`linkedin`** (String)
-  - `twitter` (String)
-  - **`scheduling`** (String)
-  - **`online-only`** (Boolean)  
-  - **`topics`** (Array of String)
+### 2022-04-22
+
+- add **`languages`** (Array of String): the languages you can use for your coffee chat
+
+### 2022-04-21
+
+Initial JSON including:
+
+- **`name`** (String): your full name
+- `title` (String): your job title
+- `company` (String): the name of the company that you work for. Freelancers can just write `freelance`
+- `city` (String): the city where you live
+- `country` (String): the country where you live
+- **`linkedin`** (String): the full link to your LinkedIn profile
+- `twitter` (String): the full link to your Twitter account
+- **`scheduling`** (String): the link to your scheduling platform or a `mailto:your@email.com` link
+- **`online-only`** (Boolean): `true` if you are open to meet people in your area in-person
+- **`topics`** (Array of String): all the topics, tech or not, that you would be comfortable to discuss about or even giving tips and sharing your expertise
 
 _The properties in bold are required_
 
