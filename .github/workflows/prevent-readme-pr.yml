@@ -11,6 +11,7 @@ jobs:
         steps:
           - name: Fail this PR
             uses: actions/github-script@v3
+            if: ${{ github.event.head_commit.committer.username != 'actions-user' }}
             with:
                 script: |
                     core.setFailed('Do not make changes in README.md directly! Update TEMPLATE_README.md in the scripts folder instead.')
