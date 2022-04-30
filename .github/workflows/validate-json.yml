@@ -1,11 +1,11 @@
-name: Validate people.json Schema
+name: Validate people.json
 on:
   push:
       paths:
       - 'people.json'
 
 jobs:
-  verify-json-schema:
+  validate-json:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout this repository
@@ -16,8 +16,14 @@ jobs:
         with:
           node-version: '18'
 
+      - name: Installing eslint & eslint-plugin-json
+        run: npm i eslint eslint-plugin-json
+
+      - name: Validate the JSON
+        run: eslint people.json
+
       - name: Installing ajv CLI
         run: npm i -g ajv-cli
 
-      - name: Validate the Schema
+      - name: Validate the JSON Schema
         run: ajv validate -s schema.json -d people.json --spec=draft2020
