@@ -19,7 +19,9 @@ List of awesome people offering their time **for free** to have a "coffee chat" 
 
 ## Add yourself to this list
 
-To add your name to this list, you simply need to add another person object in [people.json](people.json). You can simply copy someone else, and change the information. If you don't want to share a piece of information, just leave the value of the field empty. Once done, please do a pull request. If you have no idea how all this works, you can simply send me your information by [email](mailto:hi@fred.dev), and I'll add you to the list myself with pleasure.
+To add your name to this list, you need to add another object to the `people` array in [people.json](people.json) and send a pull request. See [schema.json](schema.json) for the information about the JSON schema.
+
+If you have no idea how all this works, you can simply send me your information by [email](mailto:hi@fred.dev), and I'll add you to the list myself with pleasure.
 
 **Warning**: only add yourself to this list!
 
