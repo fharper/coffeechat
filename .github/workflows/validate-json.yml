@@ -1,4 +1,4 @@
-name: Validate people.json schema
+name: Validate people.json Schema
 on:
   push:
       paths:
@@ -11,8 +11,13 @@ jobs:
       - name: Checkout this repository
         uses: actions/checkout@v3
 
-      - name: Validate JSON
-        uses: docker://orrosenblatt/validate-json-action:latest
-        env:
-          INPUT_SCHEMA: ./schema.json
-          INPUT_JSONS: ./people.json
+      - name: Setting up Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '18'
+
+      - name: Installing ajv CLI
+        run: npm i -g ajv-cli
+
+      - name: Validate the Schema
+        run: ajv validate -s schema.json -d people.json --spec=draft2022
