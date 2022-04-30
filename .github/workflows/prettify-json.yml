@@ -1,8 +1,6 @@
 name: Prettify people.json
 on:
   push:
-    branches:
-      - main
     paths:
       - 'people.json'
 
