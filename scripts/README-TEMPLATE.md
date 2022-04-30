@@ -50,7 +50,6 @@ I put this up quickly, and don't have more time this week to finalize what I had
 - Generate a second list by location (when we'll have more people)
 - Generate a third list by discussion topics (when we'll have more people)
 - Add GitHub Action for JSON linting & formating
-- Add GitHub Action for automatic README generation
 - Add GitHub Action for links validation
 - Create pull request template
 - Create a CONTRIBUTION.md
