@@ -1,0 +1,32 @@
+name: Prettify people.json
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - 'people.json'
+
+jobs:
+  prettify-json:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout this repository
+        uses: actions/checkout@v3
+        with:
+          token: ${{ secrets.ACTIONS_TOKEN }}
+
+      - name: Setting up Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '18'
+
+      - name: Run prettier
+        run: npx prettier --write people.json
+
+      - name: Commit the changes
+        uses: EndBug/add-and-commit@v9
+        with:
+          add: 'people.json'
+          author_name: 'GitHub Actions'
+          author_email: 'actions@github.com'
+          message: 'prettify people.json'
