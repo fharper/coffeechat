@@ -1,7 +1,9 @@
-- name: Prevent README.md direct modifications
+- name: Prevent README direct modifications
   on: push
 
-  uses: xalvarez/prevent-file-change-action@v1
-  with:
-    githubToken: ${{ secrets.GITHUB_TOKEN }}
-    pattern: README\.md
+  jobs:
+    check-for-readme-commit:
+      uses: xalvarez/prevent-file-change-action@v1
+      with:
+        githubToken: ${{ secrets.GITHUB_TOKEN }}
+        pattern: README\.md
