@@ -1,0 +1,45 @@
+name: Generate README
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - 'people.json'
+      - 'scripts/README-TEMPLATE.md'
+
+jobs:
+  generate-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout this repository
+        uses: actions/checkout@v3
+        with:
+          token: ${{ secrets.ACTIONS_TOKEN }}
+
+      - name: Setting up Node.js
+        uses: actions/setup-node@v2
+        with:
+          node-version: '18'
+
+      - name: Restore Node.js modules (or cache them)
+        uses: actions/cache@v1
+        with:
+          path: ~/.npm
+          key: ${{ runner.os }}-npm-${{ hashFiles('package-lock.json') }}
+
+      - name: Installing dependencies
+        working-directory: ./scripts
+        run: npm install
+
+      - name: Generate the new README file
+        working-directory: ./scripts
+        run: node write-readme.js
+
+      - name: Commit the changes
+        uses: EndBug/add-and-commit@v9
+        with:
+          add: 'README.md'
+          author_name: 'GitHub Actions'
+          author_email: 'actions@github.com'
+          message: 'Generate the README file based on latest change'
+          push: false
