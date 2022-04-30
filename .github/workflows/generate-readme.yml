@@ -42,4 +42,3 @@ jobs:
           author_name: 'GitHub Actions'
           author_email: 'actions@github.com'
           message: 'Generate the README file based on latest change'
-          push: false
