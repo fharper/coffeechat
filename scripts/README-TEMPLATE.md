@@ -57,6 +57,6 @@ I put this up quickly, and don't have more time this week to finalize what I had
 
 ## Acknoledgements
 
-The idea of a coffee chat resource list is  coming from [Julien Lengrand-Lambert.](https://www.linkedin.com/in/julienlengrand/).
+The idea of a coffee chat resource list is coming from [Julien Lengrand-Lambert.](https://www.linkedin.com/in/julienlengrand/).
 
 P.S.: `README.md` is generated from `scripts/TEMPLATE-README.md`
