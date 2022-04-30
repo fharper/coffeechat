@@ -17,12 +17,12 @@ jobs:
           token: ${{ secrets.ACTIONS_TOKEN }}
 
       - name: Setting up Node.js
-        uses: actions/setup-node@v2
+        uses: actions/setup-node@v3
         with:
           node-version: '18'
 
       - name: Restore Node.js modules (or cache them)
-        uses: actions/cache@v1
+        uses: actions/cache@v3
         with:
           path: ~/.npm
           key: ${{ runner.os }}-npm-${{ hashFiles('package-lock.json') }}
