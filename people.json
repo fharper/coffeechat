@@ -6,32 +6,29 @@
             "company": "Mindee",
             "city": "Montréal",
             "country": "Canada",
-            "languages": [
-                "English",
-                "French"
-            ],
+            "languages": ["English", "French"],
             "website": "https://fred.dev",
             "linkedin": "https://www.linkedin.com/in/fredericharper",
             "twitter": "https://twitter.com/fharper",
             "scheduling": "https://calendly.com/fharper/coffee",
             "online-only": false,
-                                                            "topics": [
-                                                                "Open-Source",
-                                                                "SaaS Architecture",
-                                                                "Developer Relations",
-                                                                "Developers Documentation",
-                                                                "Community Building",
-                                                                "Personal Branding",
-                                                                "Starting in Tech",
-                                                                "Job Search",
-                                                                "LinkedIn",
-                                                                "Cats",
-                                                                "Coffee",
-                                                                "Microbrewery Beer",
-                                                                "Travelling",
-                                                                "Mental Health",
-                                                                "Anything else"
-                                                            ]
+            "topics": [
+                "Open-Source",
+                "SaaS Architecture",
+                "Developer Relations",
+                "Developers Documentation",
+                "Community Building",
+                "Personal Branding",
+                "Starting in Tech",
+                "Job Search",
+                "LinkedIn",
+                "Cats",
+                "Coffee",
+                "Microbrewery Beer",
+                "Travelling",
+                "Mental Health",
+                "Anything else"
+            ]
         },
         {
             "name": "Richard Moot",
@@ -39,9 +36,7 @@
             "company": "Square @ Block, Inc.",
             "city": "Oakland",
             "country": "United States of America",
-            "languages": [
-                "English"
-            ],
+            "languages": ["English"],
             "website": "",
             "linkedin": "https://www.linkedin.com/in/richardmoot",
             "twitter": "https://twitter.com/wootmoot",
@@ -69,10 +64,7 @@
             "company": "Northern.tech",
             "city": "Munich",
             "country": "Germany",
-            "languages": [
-                "English",
-                "German"
-            ],
+            "languages": ["English", "German"],
             "website": "",
             "linkedin": "https://www.linkedin.com/in/josef-holzmayr",
             "twitter": "https://twitter.com/theyoctojester",
@@ -98,9 +90,7 @@
             "company": "Vonage",
             "city": "London",
             "country": "England",
-            "languages": [
-                "English"
-            ],
+            "languages": ["English"],
             "website": "",
             "linkedin": "https://www.linkedin.com/in/zachary-mg-powell",
             "twitter": "https://twitter.com/devwithzachary",
@@ -123,11 +113,7 @@
             "company": "Budibase",
             "city": "Rotterdam",
             "country": "Netherlands",
-            "languages": [
-                "English",
-                "Dutch",
-                "Frisian"
-            ],
+            "languages": ["English", "Dutch", "Frisian"],
             "linkedin": "https://www.linkedin.com/in/wraldpyk/",
             "twitter": "https://twitter.com/wraldpyk",
             "scheduling": "https://calendar.google.com/calendar/appointments/schedules/AcZssZ2j2HSqAeHfTXLKLdq5VyE-3lCrbIBLtL7DWAk6VrAkJfC5GVFEFI8cHAhUeIkbqFe1l3hmhm6A",
@@ -152,9 +138,7 @@
             "city": "London",
             "country": "England",
             "website": "",
-            "languages": [
-                "English"
-            ],
+            "languages": ["English"],
             "linkedin": "https://www.linkedin.com/in/ricardosueiras",
             "twitter": "https://twitter.com/094459",
             "scheduling": "https://calendly.com/ricardo-sueiras/you-are-amazing",
@@ -174,9 +158,7 @@
             "company": "RBC",
             "city": "Montreal",
             "country": "Canada",
-            "languages": [
-                "English"
-            ],
+            "languages": ["English"],
             "linkedin": "https://www.linkedin.com/in/shannonlal",
             "twitter": "https://twitter.com/shannondlal",
             "scheduling": "https://calendly.com/shannonlal/30min",
@@ -199,9 +181,7 @@
             "city": "Columbus, Ohio",
             "country": "United States of America ",
             "website": "",
-            "languages": [
-                "English"
-            ],
+            "languages": ["English"],
             "linkedin": "https://www.linkedin.com/in/baskarrao-dandlamudi/",
             "twitter": "https://twitter.com/baskarmib",
             "scheduling": "https://calendly.com/baskarmib/30min",
@@ -222,9 +202,7 @@
             "city": "Seattle",
             "country": "United States of America",
             "website": "",
-            "languages": [
-                "English"
-            ],
+            "languages": ["English"],
             "linkedin": "https://www.linkedin.com/in/anthonydellavecchia",
             "twitter": "https://twitter.com/anthonyjdella",
             "scheduling": "https://calendly.com/anthonyjdella/chat",
@@ -248,11 +226,7 @@
             "city": "Utrecht",
             "country": "the Netherlands",
             "website": "",
-            "languages": [
-                "English",
-                "French",
-                "Dutch"
-            ],
+            "languages": ["English", "French", "Dutch"],
             "linkedin": "https://www.linkedin.com/in/julienlengrand/",
             "twitter": "https://twitter.com/jlengrand",
             "scheduling": "https://calendly.com/jlengrand",
@@ -280,9 +254,7 @@
             "city": "Tokyo",
             "country": "Japan",
             "website": "",
-            "languages": [
-                "English"
-            ],
+            "languages": ["English"],
             "linkedin": "https://www.linkedin.com/in/mikestaffa/",
             "twitter": "https://twitter.com/mtstaffa",
             "scheduling": "https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ2ORDYuLhQBn4UgTLumBjC8UgC_lAIItfA3upgMX6TR-NlL-JkwZNz7z8aHy2n05ilPfycvPqkT",
@@ -304,9 +276,7 @@
             "company": "Affinity Employer Services/Freelancing",
             "city": "Auckland",
             "country": "New Zealand",
-            "languages": [
-                "English"
-            ],
+            "languages": ["English"],
             "linkedin": "https://www.linkedin.com/in/jody-winter/",
             "twitter": "",
             "website": "https://jodywinter.com/",
