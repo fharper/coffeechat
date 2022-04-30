@@ -29,19 +29,6 @@ If you have no idea how all this works, you can simply send me your information 
 
 Simply create a pull request by removing your people definition from [people.json](people.json). As for adding yourself to the list if you are not a technical person, just send me an [email](mailto:hi@fred.dev) and I'll do it for you.
 
-## Future plans
-
-I put this up quickly! Here's some things left to do.
-
-- Better formatting of the list including languages, website, city & country (suggestions welcome here)
-- Generate a second list by location (when we'll have more people)
-- Generate a third list by discussion topics (when we'll have more people)
-- Add GitHub Action for JSON formating
-- Add GitHub Action for links validation
-- Create pull request template
-- Create a CONTRIBUTION.md
-- Create a SECURITY.md
-
 ## Acknoledgements
 
 The idea of a coffee chat resource list is coming from [Julien Lengrand-Lambert.](https://www.linkedin.com/in/julienlengrand/).
