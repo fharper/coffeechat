@@ -41,7 +41,7 @@ Initial JSON including:
 - **`online-only`** (Boolean): `true` if you are open to meet people in your area in-person
 - **`topics`** (Array of String): all the topics, tech or not, that you would be comfortable to discuss about or even giving tips and sharing your expertise
 
-_The properties in bold are required_
+_The properties in bold are required_.
 
 ## Future plans
 
