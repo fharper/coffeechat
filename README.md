@@ -31,18 +31,17 @@ Simply create a pull request by removing your people definition from [people.jso
 
 ## Future plans
 
-I put this up quickly, and don't have more time this week to finalize what I had in mind, so here's some things left to do.
+I put this up quickly! Here's some things left to do.
 
+- Better formatting of the list including languages, website, city & country (suggestions welcome here)
 - Generate a second list by location (when we'll have more people)
 - Generate a third list by discussion topics (when we'll have more people)
 - Add GitHub Action for JSON formating
 - Add GitHub Action for links validation
 - Create pull request template
 - Create a CONTRIBUTION.md
-- Better formatting of the list including languages, website, city & country (suggestions welcome here)
+- Create a SECURITY.md
 
 ## Acknoledgements
 
 The idea of a coffee chat resource list is coming from [Julien Lengrand-Lambert.](https://www.linkedin.com/in/julienlengrand/).
-
-P.S.: `README.md` is generated from `scripts/TEMPLATE-README.md`
