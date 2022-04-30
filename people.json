@@ -97,6 +97,9 @@
             "company": "Vonage",
             "city": "London",
             "country": "England",
+            "languages": [
+                "English"
+            ],
             "website": "",
             "linkedin": "https://www.linkedin.com/in/zachary-mg-powell",
             "twitter": "https://twitter.com/devwithzachary",
@@ -300,7 +303,9 @@
             "company": "Affinity Employer Services/Freelancing",
             "city": "Auckland",
             "country": "New Zealand",
-            "languages": ["English"],
+            "languages": [
+                "English"
+            ],
             "linkedin": "https://www.linkedin.com/in/jody-winter/",
             "twitter": "",
             "website": "https://jodywinter.com/",
@@ -319,6 +324,6 @@
                 "Gen X Women in Tech",
                 "Working in New Zealand"
             ]
-}
+        }
     ]
 }
