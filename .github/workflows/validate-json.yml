@@ -20,4 +20,4 @@ jobs:
         run: npm i -g ajv-cli
 
       - name: Validate the Schema
-        run: ajv validate -s schema.json -d people.json --spec=draft2022
+        run: ajv validate -s schema.json -d people.json --spec=draft2020
