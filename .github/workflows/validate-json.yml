@@ -17,10 +17,10 @@ jobs:
           node-version: '18'
 
       - name: Installing eslint & eslint-plugin-json
-        run: npm i eslint eslint-plugin-json
+        run: npm i eslint-plugin-json
 
       - name: Validate the JSON
-        run: eslint people.json
+        run: npx eslint people.json
 
       - name: Installing ajv CLI
         run: npm i -g ajv-cli
