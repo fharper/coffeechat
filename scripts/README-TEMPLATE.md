@@ -18,6 +18,6 @@ If you have no idea how all this works, you can simply send me your information 
 
 Simply create a pull request by removing your people definition from [people.json](people.json). As for adding yourself to the list if you are not a technical person, just send me an [email](mailto:hi@fred.dev) and I'll do it for you.
 
-## Acknoledgements
+## Acknowledgements
 
 The idea of a coffee chat resource list is coming from [Julien Lengrand-Lambert.](https://www.linkedin.com/in/julienlengrand/).
