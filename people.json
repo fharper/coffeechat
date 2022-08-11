@@ -297,6 +297,31 @@
                 "Gen X Women in Tech",
                 "Working in New Zealand"
             ]
+        },
+        {
+            "name": "Lidia De La Cruz",
+            "title": "Consultant Developer|Developer Advocate",
+            "company": "Thoughtworks",
+            "city": "New York City",
+            "country": "USA",
+            "languages": ["English", "Spanish"],
+            "linkedin": "https://www.linkedin.com/in/lidia-de-la-cruz/",
+            "twitter": "https://twitter.com/poderosacoding",
+            "website": "",
+            "scheduling": "mailto:contact@poderosacoding.com",
+            "online-only": true,
+            "topics": [
+                "Starting in Tech",
+                "Structuring Content",
+                "Networking",
+                "Building a Personal Brand",
+                "Career Transitions",
+                "Skills Development",
+                "Imposter Syndrome",
+                "Latinx in Tech",
+                "Free Resources",
+                "POC in Tech"
+            ]
         }
     ]
 }
