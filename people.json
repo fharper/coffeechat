@@ -322,6 +322,32 @@
                 "Free Resources",
                 "POC in Tech"
             ]
+        },
+        {
+            "name": "Maximiliano Rios",
+            "title": "Software Engineer",
+            "company": "Google",
+            "city": "New York City",
+            "country": "USA",
+            "languages": ["English"],
+            "linkedin": "https://www.linkedin.com/in/maximiliano-merced/",
+            "twitter": "https://twitter.com/_maxrios",
+            "website": "",
+            "scheduling": "https://calendly.com/maxrios/coffee",
+            "online-only": false,
+            "topics": [
+                "Software Engineering",
+                "Networking",
+                "Interviewing",
+                "Career Transitions",
+                "Education Tech",
+                "Designing a Project",
+                "Latinx in Tech",
+                "First Tech Job",
+                "College Advise",
+                "Job Search",
+                "Starting in Tech"
+            ]
         }
     ]
 }
