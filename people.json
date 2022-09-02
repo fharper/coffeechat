@@ -362,13 +362,14 @@
             "scheduling": "https://calendly.com/annaliesebronz/zoom",
             "online-only": false,
             "topics": [
-                "ATS-Friendly Resume",
+                "Accountability Partner",
+                "Goal Setting",
+                "Women in Tech",
+                "LGBTQ+ in Tech",
+                "Friendships",
                 "Networking",
-                "Entry Level Software Development Positions",
-                "Community Building",
-                "Starting in Tech",
-                "Job Search"
+                "In-person meetups"
             ]
-        }
+        },
     ]
 }
