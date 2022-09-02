@@ -348,6 +348,27 @@
                 "Job Search",
                 "Starting in Tech"
             ]
-        }
+        },
+        {
+            "name": "Annaliese Bronz",
+            "title": "Software Developer",
+            "company": "N/A",
+            "city": "NYC Metropolitan Atea",
+            "country": "United States",
+            "website": "https://github.com/ZehavaBatya",
+            "languages": ["English"],
+            "linkedin": "https://www.linkedin.com/in/annalieseb/",
+            "twitter": "",
+            "scheduling": "https://calendly.com/annaliesebronz/zoom",
+            "online-only": false,
+            "topics": [
+                "ATS-Friendly Resume",
+                "Networking",
+                "Entry Level Software Development Positions",
+                "Community Building",
+                "Starting in Tech",
+                "Job Search",
+            ]
+        },
     ]
 }
