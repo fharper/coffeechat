@@ -2,8 +2,8 @@
     "people": [
         {
             "name": "Frédéric Harper",
-            "title": "Director of Developer Relations",
-            "company": "Mindee",
+            "title": "Principal Developer Advocate",
+            "company": "Kubefirst",
             "city": "Montréal",
             "country": "Canada",
             "languages": ["English", "French"],
