@@ -13,6 +13,12 @@
             "scheduling": "https://calendly.com/fharper/coffee",
             "online-only": false,
             "topics": [
+                "Kubefirst",
+                "GitOps",
+                "DevOps",
+                "Software Development",
+                "Kubernetes",
+                "Cloud & app Architecture",
                 "Open-Source",
                 "SaaS Architecture",
                 "Developer Relations",
