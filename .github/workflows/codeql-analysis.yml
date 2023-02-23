@@ -1,0 +1,42 @@
+name: "CodeQL"
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+  schedule:
+    - cron: '0 0 * * 6' # Saturdays at midnight
+
+jobs:
+  analyze:
+    name: Analyze
+    runs-on: ubuntu-latest
+    permissions:
+      actions: read
+      contents: read
+      security-events: write
+
+    strategy:
+      fail-fast: false
+      matrix:
+        language: [ 'javascript' ]
+        # https://git.io/codeql-language-support
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
+
+    # Initializes the CodeQL tools for scanning.
+    - name: Initialize CodeQL
+      uses: github/codeql-action/init@v2
+      with:
+        languages: ${{ matrix.language }}
+
+    # Autobuild attempts to build any compiled languages  (C/C++, C#, or Java)
+    - name: Autobuild
+      uses: github/codeql-action/autobuild@v2
+
+    # Perform code analysis
+    - name: Perform CodeQL Analysis
+      uses: github/codeql-action/analyze@v2
