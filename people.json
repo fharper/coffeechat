@@ -39,6 +39,23 @@
             ]
         },
         {
+            "name": "Benoît H. Dicaire",
+            "title": "Cybersecurity Strategist",
+            "company": "Dicaire.com",
+            "city": "Montréal",
+            "country": "Canada",
+            "languages": ["English", "French"],
+            "website": "https://dicaire.com",
+            "linkedin": "https://www.linkedin.com/in/bhdicaire",
+            "scheduling": "https://calendly.com/bhdicaire/20m",
+            "online-only": false,
+            "topics": [
+				"Public speaking",
+				"Information security, technology & privacy",
+				"Governance, Risk management & compliance"
+            ]
+        },        
+        {
             "name": "Richard Moot",
             "title": "Head of Developer Advocacy",
             "company": "Square @ Block, Inc.",
