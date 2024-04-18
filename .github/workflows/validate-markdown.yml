@@ -1,5 +1,6 @@
 name: Markdown Syntax Validation
 on:
+  workflow_dispatch:
   push:
     paths:
       - 'scripts/README-TEMPLATE.md'

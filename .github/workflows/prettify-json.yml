@@ -1,5 +1,6 @@
 name: Prettify people.json
 on:
+  workflow_dispatch:
   push:
     paths:
       - 'people.json'
