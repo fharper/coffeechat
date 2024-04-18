@@ -50,11 +50,11 @@
             "scheduling": "https://calendly.com/bhdicaire/20m",
             "online-only": false,
             "topics": [
-				"Public speaking",
-				"Information security, technology & privacy",
-				"Governance, Risk management & compliance"
+                "Public speaking",
+                "Information security, technology & privacy",
+                "Governance, Risk management & compliance"
             ]
-        },        
+        },
         {
             "name": "Richard Moot",
             "title": "Head of Developer Advocacy",
