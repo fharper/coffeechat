@@ -1,0 +1,24 @@
+name: Validate people.json Schema
+on:
+  workflow_dispatch:
+  push:
+      paths:
+      - 'people.json'
+
+jobs:
+  validate-json:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout this repository
+        uses: actions/checkout@v4.1.0
+
+      - name: Setting up Node.js
+        uses: actions/setup-node@v4.0.2
+        with:
+          node-version: '18'
+
+      - name: Installing ajv CLI
+        run: npm i -g ajv-cli
+
+      - name: Validate the JSON Schema
+        run: ajv validate -s schema.json -d people.json --spec=draft2020
