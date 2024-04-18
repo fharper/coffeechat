@@ -1,4 +1,4 @@
-name: Validate people.json
+name: Validate people.json Schema
 on:
   workflow_dispatch:
   push:
@@ -6,7 +6,7 @@ on:
       - 'people.json'
 
 jobs:
-  validate-json:
+  validate-json-schema:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout this repository
@@ -15,10 +15,10 @@ jobs:
       - name: Setting up Node.js
         uses: actions/setup-node@v4.0.2
         with:
-          node-version: 'v20.12.2'
+          node-version: '18'
 
-      - name: Installing eslint-plugin-json
-        run: npm i eslint-plugin-json
+      - name: Installing ajv CLI
+        run: npm i -g ajv-cli
 
-      - name: Validate the JSON
-        run: npx eslint people.json
+      - name: Validate the JSON Schema
+        run: ajv validate -s schema.json -d people.json --spec=draft2020

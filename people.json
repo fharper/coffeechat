@@ -39,6 +39,23 @@
             ]
         },
         {
+            "name": "Benoît H. Dicaire",
+            "title": "Cybersecurity Strategist",
+            "company": "Dicaire.com",
+            "city": "Montréal",
+            "country": "Canada",
+            "languages": ["English", "French"],
+            "website": "https://dicaire.com",
+            "linkedin": "https://www.linkedin.com/in/bhdicaire",
+            "scheduling": "https://calendly.com/bhdicaire/20m",
+            "online-only": false,
+            "topics": [
+                "Public speaking",
+                "Information security, technology & privacy",
+                "Governance, Risk management & compliance"
+            ]
+        },
+        {
             "name": "Richard Moot",
             "title": "Head of Developer Advocacy",
             "company": "Square @ Block, Inc.",
@@ -376,6 +393,30 @@
                 "Friendships",
                 "Networking",
                 "In-person meetups"
+            ]
+        },
+        {
+            "name": "Maggie Barnes",
+            "title": "Software Engineer",
+            "company": "N/A",
+            "city": "El Paso, TX",
+            "country": "United States",
+            "website": "",
+            "languages": ["English"],
+            "linkedin": "https://www.linkedin.com/in/mbarnestech/",
+            "twitter": "https://twitter.com/mbarnestech",
+            "scheduling": "https://calendly.com/mbarnestech/coffee_chat",
+            "online-only": false,
+            "topics": [
+                "Software Engineering",
+                "Starting in Tech",
+                "Career Pivot",
+                "Software Engineering Bootcamps",
+                "Women in Tech",
+                "LGBTQ+ in Tech",
+                "Neurodivergence in Tech",
+                "Networking",
+                "Work-Life Balance"
             ]
         }
     ]
