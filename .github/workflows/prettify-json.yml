@@ -9,21 +9,22 @@ jobs:
   prettify-json:
     runs-on: ubuntu-latest
     steps:
+
       - name: Checkout this repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4.1.0
         with:
           token: ${{ secrets.ACTIONS_TOKEN }}
 
       - name: Setting up Node.js
-        uses: actions/setup-node@v3
+        uses: actions/setup-node@v4.0.2
         with:
-          node-version: '18'
+          node-version: 'v20.12.2'
 
       - name: Run prettier
         run: npx prettier --write people.json
 
       - name: Commit the changes
-        uses: EndBug/add-and-commit@v9
+        uses: EndBug/add-and-commit@v9.1.4
         with:
           add: 'people.json'
           author_name: 'GitHub Actions'

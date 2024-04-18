@@ -12,18 +12,19 @@ jobs:
   generate-readme:
     runs-on: ubuntu-latest
     steps:
+
       - name: Checkout this repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4.1.0
         with:
           token: ${{ secrets.ACTIONS_TOKEN }}
 
       - name: Setting up Node.js
-        uses: actions/setup-node@v3
+        uses: actions/setup-node@v4.0.2
         with:
-          node-version: '18'
+          node-version: 'v20.12.2'
 
       - name: Restore Node.js modules (or cache them)
-        uses: actions/cache@v3
+        uses: actions/cache@v4.0.2
         with:
           path: ~/.npm
           key: ${{ runner.os }}-npm-${{ hashFiles('package-lock.json') }}
