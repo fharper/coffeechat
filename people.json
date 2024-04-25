@@ -418,6 +418,28 @@
                 "Networking",
                 "Work-Life Balance"
             ]
+        },
+        {
+            "name": "Tobiloba Adedeji",
+            "title": "Software Engineer",
+            "company": "Million, Groove",
+            "city": "Lagos",
+            "country": "Nigeria",
+            "website": "https://biodrop.io/tobySolutions",
+            "languages": ["English"],
+            "linkedin": "https://www.linkedin.com/in/tobiloba-adedeji/",
+            "twitter": "https://twitter.com/toby_solutions",
+            "scheduling": "https://cal.com/toby-solutions/30min",
+            "online-only": false,
+            "topics": [
+                "Software Engineering",
+                "Million",
+                "Open Source Software",
+                "Open Source AI",
+                "Starting in Tech",
+                "Career Pivot",
+                "Software Engineering Bootcamps",
+            ]
         }
     ]
 }
