@@ -440,6 +440,35 @@
                 "Career Pivot",
                 "Software Engineering Bootcamps"
             ]
+        },
+        {
+            "name": "Ochuko Onojakpor",
+            "title": "Technical Writer, CEO",
+            "company": "GitHub, RequestMechanic",
+            "city": "Lagos",
+            "country": "Nigeria",
+            "languages": ["English"],
+            "website": "https://mainstack.me/ochuko",
+            "linkedin": "https://www.linkedin.com/in/ochuko-onojakpor-5a156515b",
+            "twitter": "https://twitter.com/LordChuks3",
+            "scheduling": "https://calendly.com/chukslord1/30min",
+            "online-only": false,
+            "topics": [
+                "Software Development",
+                "Company Branding",
+                "Open-Source",
+                "Startups",
+                "Developer Relations",
+                "Community Building",
+                "Starting in Tech",
+                "Auto Care",
+                "Job Search",
+                "Team Building",
+                "Resume",
+                "Cats",
+                "Coffee",
+                "Anything else"
+            ]
         }
     ]
 }
