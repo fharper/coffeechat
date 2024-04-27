@@ -571,6 +571,30 @@
                 "Backend",
                 "Ops"
             ]
+        },
+        {
+            "name": "Chris Hiszpanski",
+            "title": "Tech Lead",
+            "company": "Verkada",
+            "city": "Los Angeles",
+            "country": "United States",
+            "languages": ["English", "Polish"],
+            "linkedin": "https://www.linkedin.com/in/chrishiszpanski/",
+            "twitter": "",
+            "scheduling": "https://calendly.com/hiszpanski/coffee-chat",
+            "online-only": true,
+            "topics": [
+                "Video Streaming",
+                "Video Compression",
+                "Cameras",
+                "Embedded/IoT",
+                "DSP/Modems/Codecs/SDR",
+                "AI/ML",
+                "WebRTC",
+                "Mentorship",
+                "Career",
+                "Randomness/Complexity/Chaos/Patterns"
+            ]
         }
     ]
 }
