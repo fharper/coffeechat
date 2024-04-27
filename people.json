@@ -492,6 +492,35 @@
                 "Live streams",
                 "Backend"
             ]
+        },
+        {
+            "name": "Mike Lyons",
+            "title": "Frontend Engineer",
+            "company": "N/A",
+            "city": "Melbourne",
+            "country": "Australia",
+            "languages": ["English"],
+            "linkedin": "https://www.linkedin.com/in/mrlyons/",
+            "twitter": "https://twitter.com/mikelyons",
+            "scheduling": "mailto:lyons.mr@gmail.com",
+            "online-only": false,
+            "topics": [
+                "Software Engineering",
+                "Travel",
+                "Spirituality",
+                "Dating & Relationships",
+                "Sailing and Marine Trades",
+                "Art and Musicianship",
+                "Alternative Lifestyles",
+                "Futureism",
+                "Web Based Business",
+								"Skill Building",
+								"Resume & Interviewing",
+								"Mental Health",
+								"ADHD, Motivation & Life Management",
+								"Mentorship",
+								"SCUBA diving"
+            ]
         }
     ]
 }
