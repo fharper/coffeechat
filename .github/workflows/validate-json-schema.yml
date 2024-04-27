@@ -1,6 +1,7 @@
 name: Validate people.json Schema
 on:
   workflow_dispatch:
+  pull_request:
   push:
       paths:
       - 'people.json'
