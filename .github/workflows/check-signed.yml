@@ -1,6 +1,6 @@
 ---
 name: Validate if commits in PR are signed
-on: pull_request
+on: pull_request_target
 
 jobs:
   signed-commits-check:
