@@ -521,6 +521,56 @@
                 "Gardening",
                 "Anything That You're Passionate About"
             ]
+        },
+        {
+            "name": "Doug Turnbull",
+            "title": "Principal ML Engineer (in Search)",
+            "company": "Reddit",
+            "city": "Charlottesville",
+            "country": "United States",
+            "languages": ["English"],
+            "website": "https://softwaredoug.com",
+            "linkedin": "https://www.linkedin.com/in/softwaredoug/",
+            "twitter": "https://twitter.com/softwaredoug",
+            "scheduling": "https://calendly.com/dougturnbull/social-call-intro",
+            "online-only": false,
+            "topics": [
+                "Search",
+                "Information Retrieval",
+                "Recommender Systems",
+                "Search Relevance",
+                "Career Development",
+                "Technology Leadership",
+                "Lucene",
+                "Elasticsearch",
+                "Solr",
+                "Open Search",
+                "Learning to Rank"
+            ]
+        },
+        {
+            "name": "Noah Hall",
+            "title": "Tech Enabler",
+            "company": "Schibsted Media",
+            "city": "Oslo",
+            "country": "Norway",
+            "languages": ["English", "Welsh"],
+            "linkedin": "https://www.linkedin.com/in/noah-h-1264371ab/",
+            "twitter": "https://twitter.com/derwlang",
+            "scheduling": "https://calendly.com/eeue56",
+            "online-only": false,
+            "topics": [
+                "Culture",
+                "Programming languages",
+                "Compilers",
+                "Mentorship",
+                "Open Source",
+                "Community",
+                "Career",
+                "Frontend",
+                "Backend",
+                "Ops"
+            ]
         }
     ]
 }
