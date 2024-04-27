@@ -492,6 +492,35 @@
                 "Live streams",
                 "Backend"
             ]
+        },
+        {
+            "name": "John Dietz",
+            "title": "CEO and Cofounder",
+            "company": "Kubefirst",
+            "city": "Washington, DC",
+            "country": "United States",
+            "languages": ["English"],
+            "website": "https://kubefirst.github.io/speaking/speakers/john.html,
+            "linkedin": "https://www.linkedin.com/in/jd-k8s",
+            "twitter": "https://twitter.com/vitamindietz",
+            "scheduling": "https://calendly.com/kubefirst/coffee",
+            "online-only": false,
+            "topics": [
+                "Building a Company",
+                "Enterprise Architectures and Patterns",
+                "Software Delivery and Automation",
+                "Kubernetes and Cloud Native",
+                "Infrastructure at Scale",
+                "Automation",
+                "Family Life",
+                "Dogs and Cats",
+                "Drum and Bass",
+                "Cars",
+                "Coaching",
+                "Woodworking",
+                "Gardening",
+                "Anything That You're Passionate About"
+            ]
         }
     ]
 }
