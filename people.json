@@ -469,6 +469,30 @@
                 "Coffee",
                 "Anything else"
             ]
+        },
+        {
+            "name": "Rasheed Mudasiru",
+            "title": "DevOps Engineer",
+            "company": "N/A",
+            "city": "Minna",
+            "country": "Nigeria",
+            "website": "N/A",
+            "languages": ["English", "Arabic"],
+            "linkedin": "https://www.linkedin.com/in/rasheedtaiwo/",
+            "twitter": "https://twitter.com/taiwrash",
+            "scheduling": "https://cal.com/taiwrash/30min",
+            "online-only": false,
+            "topics": [
+                "Software Engineering",
+                "DevOps",
+                "Open Source Software",
+                "Community",
+                "CS Opportunities",
+                "Cloud & Cloud-Native",
+                "Podcast",
+                "Live streams",
+                "Backend"
+            ]
         }
     ]
 }
