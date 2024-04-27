@@ -25,7 +25,7 @@ const peopleList = json.people
                 }
             });
 
-            return `- **[${person.name}](${person.scheduling}) (${socials.join(', ')}), ${
+            return `1. **[${person.name}](${person.scheduling}) (${socials.join(', ')}), ${
                 person.title
             } at ${person.company}:** ${person.topics.join(", ")}`
         }
