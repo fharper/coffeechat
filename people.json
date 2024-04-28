@@ -595,6 +595,37 @@
                 "Career",
                 "Randomness/Complexity/Chaos/Patterns"
             ]
+        },
+        {
+            "name": "Sean Nieuwoudt",
+            "title": "Freelance Developer, CTO, AI Specialist",
+            "company": "Apollo Black",
+            "city": "Cape Town",
+            "country": "South Africa",
+            "languages": ["English", "German", "Afrikaans"],
+            "linkedin": "https://www.linkedin.com/in/seannieuwoudt/",
+            "twitter": "https://twitter.com/ghstcode",
+            "scheduling": "https://calendly.com/ghstcode",
+            "online-only": false,
+            "topics": [
+                "AI/ML",
+                "Mentorship",
+                "Career",
+                "Randomness/Complexity/Chaos/Patterns",
+                "Culture",
+                "Programming languages",
+                "Compilers",
+                "Open Source",
+                "Community",
+                "Frontend",
+                "Backend",
+                "Ops",
+                "Technology Leadership",
+                "Software Development",
+                "Company Branding",
+                "Startups",
+                "LLMs"
+            ]
         }
     ]
 }
