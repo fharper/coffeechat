@@ -2,8 +2,6 @@
 
 List of awesome people offering their time **for free** to have a "coffee chat" with others about different topics, mostly in a mentorship kind of way.
 
-**Important**: this is not a list to promote your paid services. It is like free as in beer...
-
 PLACEHOLDER
 
 ## Add yourself to this list
