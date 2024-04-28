@@ -597,6 +597,31 @@
             ]
         },
         {
+            "name": "Sriram Thiagarajan",
+            "title": "Engineering Manager",
+            "company": "Chargebee",
+            "city": "Chennai",
+            "country": "India",
+            "languages": ["English", "Tamil"],
+            "linkedin": "https://www.linkedin.com/in/thiagarajansriram",
+            "twitter": "https://twitter.com/tsriram",
+            "scheduling": "https://cal.com/tsriram/30min",
+            "online-only": false,
+            "topics": [
+                "Starting in Tech",
+                "Job Searching",
+                "Career",
+                "Sabbatical",
+                "Software Engineering",
+                "Web",
+                "React",
+                "Tech",
+                "NodeJS",
+                "Developer Experience",
+                "Fitness"
+            ]
+        },
+        {
             "name": "Sean Nieuwoudt",
             "title": "Freelance Developer, CTO, AI Specialist",
             "company": "Apollo Black",
