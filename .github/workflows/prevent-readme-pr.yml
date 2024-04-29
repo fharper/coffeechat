@@ -26,5 +26,5 @@ jobs:
                   issue_number: context.issue.number,
                   owner: context.repo.owner,
                   repo: context.repo.repo,
-                  body: 'Do not make changes in README.md directly. Update [people.json](https://github.com/fharper/coffeechat/blob/main/people.json): more information in [https://github.com/fharper/coffeechat/blob/main/CONTRIBUTING.md)(CONTRIBUTING.md).'
+                  body: 'Do not make changes in README.md directly. Update [people.json](https://github.com/fharper/coffeechat/blob/main/people.json): more information in [https://github.com/fharper/coffeechat/blob/main/CONTRIBUTING.md](CONTRIBUTING.md).'
                 })
