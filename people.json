@@ -651,6 +651,26 @@
                 "Startups",
                 "LLMs"
             ]
+        },
+        {
+            "name": "Wilbur Suero",
+            "title": "Software Engineer",
+            "company": "N/A",
+            "city": "La Romana",
+            "country": "Dominican Republic",
+            "languages": ["English", "Spanish"],
+            "linkedin": "https://www.linkedin.com/in/wilbursuero",
+            "twitter": "https://twitter.com/wilburhimself",
+            "scheduling": "https://calendly.com/suerowilbur/30min",
+            "online-only": true,
+            "topics": [
+                "Software Engineering",
+                "Web",
+                "React",
+                "Tech",
+                "Ruby on Rails",
+                "Developer Experience"
+            ]
         }
     ]
 }
