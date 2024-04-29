@@ -9,9 +9,21 @@ jobs:
         runs-on: ubuntu-latest
         if: ${{ github.actor != 'actions-user' }}
         steps:
+
           - name: Fail this PR
             uses: actions/github-script@v3
             if: ${{ github.event.head_commit.committer.username != 'actions-user' }}
             with:
                 script: |
-                    core.setFailed('Do not make changes in README.md directly! Update TEMPLATE_README.md in the scripts folder instead.')
+                    core.setFailed('Do not make changes in README.md directly. Update people.json: more information in CONTRIBUTING.md.')
+
+          - name: Add comment for the user
+            uses: actions/github-script@v7.0.1
+            with:
+              script: |
+                github.rest.issues.createComment({
+                  issue_number: context.issue.number,
+                  owner: context.repo.owner,
+                  repo: context.repo.repo,
+                  body: 'Do not make changes in README.md directly. Update [people.json](people.json): more information in [CONTRIBUTING.md)(CONTRIBUTING.md).'
+                })
