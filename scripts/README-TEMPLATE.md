@@ -6,7 +6,7 @@ PLACEHOLDER
 
 ## Add yourself to this list
 
-See [CONTRIBUTING.md](CONTRIBUTING.ms) for more information.
+See [CONTRIBUTING.md](CONTRIBUTING.md) for more information.
 
 ## Acknowledgements
 
