@@ -27,11 +27,12 @@ List of awesome people offering their time **for free** to have a "coffee chat" 
 1. **[Shannon Lal](https://calendly.com/shannonlal/30min) ([LinkedIn](https://www.linkedin.com/in/shannonlal), [Twitter](https://twitter.com/shannondlal)), Director, Journey Technical Lead at RBC:** Starting in Tech, Job Searching, Web, Dev Ops, React, Tech, NodeJS, Software Engineering
 1. **[Sriram Thiagarajan](https://cal.com/tsriram/30min) ([LinkedIn](https://www.linkedin.com/in/thiagarajansriram), [Twitter](https://twitter.com/tsriram)), Engineering Manager at Chargebee:** Starting in Tech, Job Searching, Career, Sabbatical, Software Engineering, Web, React, Tech, NodeJS, Developer Experience, Fitness
 1. **[Tobiloba Adedeji](https://cal.com/toby-solutions/30min) ([LinkedIn](https://www.linkedin.com/in/tobiloba-adedeji/), [Twitter](https://twitter.com/toby_solutions)), Software Engineer at Million, Groove:** Software Engineering, Million, Open Source Software, Open Source AI, Starting in Tech, Career Pivot, Software Engineering Bootcamps
+1. **[Wilbur Suero](https://calendly.com/suerowilbur/30min) ([LinkedIn](https://www.linkedin.com/in/wilbursuero), [Twitter](https://twitter.com/wilburhimself)), Software Engineer at N/A:** Software Engineering, Web, React, Tech, Ruby on Rails, Developer Experience
 1. **[Zachary Powell](https://calendar.app.google/kf8WKmRbxbkkxhbR6) ([LinkedIn](https://www.linkedin.com/in/zachary-mg-powell), [Twitter](https://twitter.com/devwithzachary)), Sr Android Developer Advocate at Vonage:** DevRel, Developer Relations, Android, Starting in Tech, Job Searching, Mobile, Tech, Software Engineering
 
 ## Add yourself to this list
 
-See [CONTRIBUTING.md](CONTRIBUTING.ms) for more information.
+See [CONTRIBUTING.md](CONTRIBUTING.md) for more information.
 
 ## Acknowledgements
 
