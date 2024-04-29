@@ -37,3 +37,4 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for more information.
 ## Acknowledgements
 
 The idea of a coffee chat resource list is coming from [Julien Lengrand-Lambert.](https://www.linkedin.com/in/julienlengrand/).
+test
