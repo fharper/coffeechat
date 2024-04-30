@@ -2,7 +2,7 @@
 
 List of awesome people offering their time **for free** to have a "coffee chat" with others about different topics, mostly in a mentorship kind of way.
 
-1. **[Annaliese Bronz](https://calendly.com/annaliesebronz/zoom) ([Website](https://github.com/ZehavaBatya), [LinkedIn](https://www.linkedin.com/in/annalieseb/)), Software Developer at N/A:** Accountability Partner, Goal Setting, Women in Tech, LGBTQ+ in Tech, Friendships, Networking, In-person meetups
+1. **[Annaliese Bronz](https://calendly.com/annaliesebronz/zoom) ([Website](https://github.com/ZehavaBatya), [LinkedIn](https://www.linkedin.com/in/annaliese-in-tech/)), Software Developer at N/A:** Accountability Partner, Goal Setting, Women in Tech, LGBTQ+ in Tech, Friendships, Networking, In-person meetups
 1. **[Anthony Dellavecchia](https://calendly.com/anthonyjdella/chat) ([LinkedIn](https://www.linkedin.com/in/anthonydellavecchia), [Twitter](https://twitter.com/anthonyjdella)), Developer Evangelist, Staff at Twilio:** Software Engineering, Developer Relations, Developers Documentation, Community Building, Personal Branding, Starting in Tech, Job Search, Mental Health, Imposter Syndrome
 1. **[Baskar Rao Dandlamudi](https://calendly.com/baskarmib/30min) ([LinkedIn](https://www.linkedin.com/in/baskarrao-dandlamudi/), [Twitter](https://twitter.com/baskarmib)), Solutions Architect at Perficient:** Application Development, Starting in Tech, Job Searching, Mobile, Tech, Software Engineering
 1. **[Benoît H. Dicaire](https://calendly.com/bhdicaire/20m) ([Website](https://dicaire.com), [LinkedIn](https://www.linkedin.com/in/bhdicaire)), Cybersecurity Strategist at Dicaire.com:** Public speaking, Information security, technology & privacy, Governance, Risk management & compliance
