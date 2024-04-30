@@ -58,6 +58,10 @@
 					"description": "Twitter account URL",
 					"$ref": "#/definitions/validURL"
 				},
+				"mastodon":  {
+					"description": "Mastodon account URL",
+					"$ref": "#/definitions/validURL"
+				},
 				"scheduling":  {
 					"description": "Scheduling platform URL or mailto link",
 					"$ref": "#/definitions/validScheduling"
@@ -84,7 +88,8 @@
 				"linkedin",
 				"scheduling",
 				"topics"
-			]
+			],
+			"additionalProperties": false
 		}
 	},
 	"definitions": {
