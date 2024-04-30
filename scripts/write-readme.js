@@ -19,7 +19,7 @@ const peopleList = json.people
     .map(
         (person) => {
             let socials = [];
-            ['LinkedIn', 'Twitter', 'Mastodon'].forEach(social => {
+            ['Website', 'LinkedIn', 'Twitter', 'Mastodon'].forEach(social => {
                 if (person.hasOwnProperty(social.toLowerCase()) && person[social.toLowerCase()].length > 0) {
                     socials.push(`[${social}](${person[social.toLowerCase()]})`);
                 }
