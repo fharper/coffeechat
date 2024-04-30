@@ -671,6 +671,29 @@
                 "Ruby on Rails",
                 "Developer Experience"
             ]
+        },
+        {
+            "name": "Mike Yerou",
+            "title": "Software Engineer, Co-founder",
+            "company": "Pale Blue",
+            "city": "Nicosia",
+            "country": "Cyprus",
+            "languages": ["Greek", "English"],
+            "linkedin": "https://www.linkedin.com/in/myerou/",
+            "scheduling": "https://calendly.com/myerou/video-call",
+            "online-only": true,
+            "topics": [
+                "Software Engineering",
+                "Tech",
+                "Developer Experience",
+                "Technology Leadership",
+                "Software Development",
+                "Company Branding",
+                "Startups",
+                "Mobile",
+                "Android",
+                "Google"
+            ]
         }
     ]
 }
