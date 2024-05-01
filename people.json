@@ -736,6 +736,25 @@
                 "Software Development Analytics",
                 "Interviewing and Hiring"
             ]
+        },
+        {
+            "name": "Quanzheng Long",
+            "title": "Principal Software Engineer",
+            "company": "Indeed",
+            "city": "Seattle",
+            "country": "United State of America",
+            "languages": ["English", "Chinese"],
+            "linkedin": "https://www.linkedin.com/in/prclqz/",
+            "scheduling": "https://calendly.com/prclqz/30min",
+            "topics": [
+                "Software Engineering",
+                "Workflow Engine",
+                "Cadence & Temporal Workflow",
+                "Low Code or No Code Workflow",
+                "Programming Java/Golang",
+                "Backend",
+                "Distributed System"
+            ]
         }
     ]
 }
