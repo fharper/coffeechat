@@ -9,15 +9,21 @@ parentFolderPath = path.dir.split(path.sep).pop();
 const data = fs.readFileSync(`${parentFolderPath}/people.json`);
 const json = JSON.parse(data);
 
+// Table header
+const header = `|#|Name|URLs|Work|Topics|
+|---|---|---|---|---|
+`;
+
 //Order by name
 json.people.sort(function (a, b) {
     return a.name.localeCompare(b.name);
 });
 
+
 //Generate with proper formating
 const peopleList = json.people
     .map(
-        (person) => {
+        (person, index) => {
             let socials = [];
             ['Website', 'LinkedIn', 'Twitter', 'Mastodon'].forEach(social => {
                 if (person.hasOwnProperty(social.toLowerCase()) && person[social.toLowerCase()].length > 0) {
@@ -25,9 +31,7 @@ const peopleList = json.people
                 }
             });
 
-            return `1. **[${person.name}](${person.scheduling}) (${socials.join(', ')}), ${
-                person.title
-            } at ${person.company}:** ${person.topics.join(", ")}`
+            return `| ${++index}. | **[${person.name}](${person.scheduling})** | ${socials.join('<br/>')} | ${person.title} at ${person.company} | ${person.topics.join(', ')} |`
         }
     )
     .join("\r\n");
@@ -36,5 +40,5 @@ const peopleList = json.people
 const template = fs.readFileSync(`${appRoot}/README-TEMPLATE.md`, "utf8");
 fs.writeFileSync(
     `${parentFolderPath}/README.md`,
-    template.replace("PLACEHOLDER", peopleList)
+    template.replace("PLACEHOLDER", [header, peopleList].join(""))
 );
