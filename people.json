@@ -51,7 +51,7 @@
             "online-only": false,
             "topics": [
                 "Public speaking",
-                "Information security & privacy",
+                "Information security, tech & privacy",
                 "Governance",
                 "Risk management",
                 "Compliance"
@@ -498,7 +498,7 @@
             "online-only": false,
             "topics": [
                 "Building a Company",
-                "Enterprise Architectures & Patterns",
+                "Enterprise Architectures and Patterns",
                 "Software Delivery and Automation",
                 "Kubernetes and Cloud Native",
                 "Infrastructure at Scale",
@@ -510,7 +510,7 @@
                 "Coaching",
                 "Woodworking",
                 "Gardening",
-                "Anything You're Passionate About"
+                "Anything That You're Passionate About"
             ]
         },
         {
@@ -584,8 +584,7 @@
                 "WebRTC",
                 "Mentorship",
                 "Career",
-                "Randomness & Complexity",
-                "Chaos & Patterns"
+                "Randomness/Complexity/Chaos/Patterns"
             ]
         },
         {
@@ -628,8 +627,7 @@
                 "AI/ML",
                 "Mentorship",
                 "Career",
-                "Randomness & Complexity",
-                "Chaos & Patterns",
+                "Randomness/Complexity/Chaos/Patterns",
                 "Culture",
                 "Programming languages",
                 "Compilers",
@@ -712,6 +710,29 @@
                 "Personal Development",
                 "Career choices",
                 "Life"
+            ]
+        },
+        {
+            "name": "Kevin Binswanger",
+            "title": "Principal Software Engineer",
+            "company": "Indeed",
+            "city": "Austin",
+            "country": "United State of America",
+            "languages": ["English"],
+            "twitter": "https://www.twitter.com/anusien",
+            "linkedin": "https://www.linkedin.com/in/kevinbinswanger/",
+            "scheduling": "https://calendly.com/kbinswanger/30min",
+            "topics": [
+                "Software Engineering",
+                "Culture",
+                "Programming Java",
+                "Backend",
+                "Mentorship",
+                "Career",
+                "Game Theory and Incentives",
+                "Job Search",
+                "Software Development Analytics",
+                "Interviewing and Hiring"
             ]
         }
     ]
