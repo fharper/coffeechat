@@ -683,6 +683,32 @@
                 "Android",
                 "Google"
             ]
+        },
+        {
+            "name": "Jettro Coenradie",
+            "title": "Search Engineer, LLM Enthousiast",
+            "company": "Luminis",
+            "city": "Pijnacker",
+            "country": "The Netherlands",
+            "languages": ["Dutch", "English"],
+            "website": "https://jettro.dev",
+            "linkedin": "https://www.linkedin.com/in/jettro",
+            "scheduling": "https://calendly.com/jettro/coffeechat",
+            "online-only": false,
+            "topics": [
+              "Search",
+              "Elasticsearch",
+              "OpenSearch",
+              "Vector Search",
+              "Weaviate",
+              "Large Language Models",
+              "Retrieval Augmented Generation",
+              "Software Architecture",
+              "Programming Java",
+              "Personal Development",
+              "Career choices",
+              "Life"
+            ]
         }
     ]
 }
