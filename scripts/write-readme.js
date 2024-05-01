@@ -37,7 +37,7 @@ const peopleList = json.people
             //Order the topics
             person.topics.sort();
 
-            return `| **[${person.name}](${person.scheduling})** | ${socials.join('<br/>')} | ${person.title} at ${person.company} | ${person.languages.join('<br/>')} | ${person.topics.join(', ')} |`
+            return `| **[${person.name}](${person.scheduling})** | ${socials.join('<br/>')} | ${person.title} at ${person.company} | ${person.languages.join('<br/>')} | ${person.topics.join('<br/>')} |`
         }
     )
     .join("\r\n");
