@@ -10,7 +10,7 @@ const data = fs.readFileSync(`${parentFolderPath}/people.json`);
 const json = JSON.parse(data);
 
 // Table header
-const header = `|#|Name|URLs|Work|Languages|Topics|
+const header = `|#|Name|URLs|Work|Langs|Topics|
 |---|---|---|---|---|---|
 `;
 
