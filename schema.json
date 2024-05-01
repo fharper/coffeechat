@@ -74,7 +74,8 @@
                     "description": "List of every topics you are de factor comfortable to discuss or give tips about",
                     "type": "array",
                     "items": {
-                        "type": "string"
+                        "type": "string",
+                        "maxLength": 40
                     },
                     "minItems": 1,
                     "uniqueItems": true

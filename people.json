@@ -51,8 +51,10 @@
             "online-only": false,
             "topics": [
                 "Public speaking",
-                "Information security, technology & privacy",
-                "Governance, Risk management & compliance"
+                "Information security, tech & privacy",
+                "Governance",
+                "Risk management",
+                "Compliance"
             ]
         },
         {
