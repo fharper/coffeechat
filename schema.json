@@ -48,23 +48,28 @@
                 },
                 "website":  {
                     "description": "Website URL",
-                    "$ref": "#/definitions/validURL"
+                    "type": "string",
+                    "pattern": "(^https://)|(^$)"
                 },
                 "linkedin":  {
                     "description": "LinkedIn profile URL",
-                    "$ref": "#/definitions/validURL"
+                    "type": "string",
+                    "pattern": "(^https://)|(^$)"
                 },
                 "twitter":  {
                     "description": "Twitter account URL",
-                    "$ref": "#/definitions/validURL"
+                    "type": "string",
+                    "pattern": "(^https://)|(^$)"
                 },
                 "mastodon":  {
                     "description": "Mastodon account URL",
-                    "$ref": "#/definitions/validURL"
+                    "type": "string",
+                    "pattern": "(^https://)|(^$)"
                 },
                 "scheduling":  {
                     "description": "Scheduling platform URL or mailto link",
-                    "$ref": "#/definitions/validScheduling"
+                    "type": "string",
+                    "pattern": "(^https://)|(^mailto:)"
                 },
                 "online-only": {
                     "description": "Whether you are open to in-person Coffee Chat (default: false)",
@@ -91,16 +96,6 @@
                 "topics"
             ],
             "additionalProperties": false
-        }
-    },
-    "definitions": {
-        "validURL": {
-            "type": "string",
-            "pattern": "(^https?://)|(^$)"
-        },
-        "validScheduling": {
-            "type": "string",
-            "pattern": "(^https?://)|(^mailto:)"
         }
     }
 }
