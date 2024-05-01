@@ -31,8 +31,11 @@ const peopleList = json.people
                 }
             });
 
-            //Order by languages
+            //Order the languages
             person.languages.sort();
+
+            //Order the topics
+            person.topics.sort();
 
             return `| ${++index}. | **[${person.name}](${person.scheduling})** | ${socials.join('<br/>')} | ${person.title} at ${person.company} | ${person.languages.join('<br/>')} | ${person.topics.join(', ')} |`
         }
