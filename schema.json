@@ -75,7 +75,7 @@
                     "type": "array",
                     "items": {
                         "type": "string",
-                        "maxLength": 40
+                        "maxLength": 35
                     },
                     "minItems": 1,
                     "uniqueItems": true
