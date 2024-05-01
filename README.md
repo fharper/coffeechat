@@ -2,7 +2,7 @@
 
 List of awesome people offering their time **for free** to have a "coffee chat" with others about different topics, mostly in a mentorship kind of way.
 
-|Name|URLs|Work|Langs|Topics|
+|Name|URLs|Work|Languages|Topics|
 |---|---|---|---|---|
 | **[Annaliese Bronz](https://calendly.com/annaliesebronz/zoom)** | [Website](https://github.com/ZehavaBatya)<br/>[LinkedIn](https://www.linkedin.com/in/annaliese-in-tech/) | Software Developer at N/A | English | Accountability Partner<br/>Friendships<br/>Goal Setting<br/>In-person meetups<br/>LGBTQ+ in Tech<br/>Networking<br/>Women in Tech |
 | **[Anthony Dellavecchia](https://calendly.com/anthonyjdella/chat)** | [LinkedIn](https://www.linkedin.com/in/anthonydellavecchia)<br/>[Twitter](https://twitter.com/anthonyjdella) | Developer Evangelist, Staff at Twilio | English | Community Building<br/>Developer Relations<br/>Developers Documentation<br/>Imposter Syndrome<br/>Job Search<br/>Mental Health<br/>Personal Branding<br/>Software Engineering<br/>Starting in Tech |
