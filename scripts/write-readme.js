@@ -10,8 +10,8 @@ const data = fs.readFileSync(`${parentFolderPath}/people.json`);
 const json = JSON.parse(data);
 
 // Table header
-const header = `|#|Name|URLs|Work|Langs|Topics|
-|---|---|---|---|---|---|
+const header = `|Name|URLs|Work|Langs|Topics|
+|---|---|---|---|---|
 `;
 
 //Order by name
@@ -23,7 +23,7 @@ json.people.sort(function (a, b) {
 //Generate with proper formating
 const peopleList = json.people
     .map(
-        (person, index) => {
+        (person) => {
             let socials = [];
             ['Website', 'LinkedIn', 'Twitter', 'Mastodon'].forEach(social => {
                 if (person.hasOwnProperty(social.toLowerCase()) && person[social.toLowerCase()].length > 0) {
@@ -37,7 +37,7 @@ const peopleList = json.people
             //Order the topics
             person.topics.sort();
 
-            return `| ${++index}. | **[${person.name}](${person.scheduling})** | ${socials.join('<br/>')} | ${person.title} at ${person.company} | ${person.languages.join('<br/>')} | ${person.topics.join(', ')} |`
+            return `| **[${person.name}](${person.scheduling})** | ${socials.join('<br/>')} | ${person.title} at ${person.company} | ${person.languages.join('<br/>')} | ${person.topics.join(', ')} |`
         }
     )
     .join("\r\n");
