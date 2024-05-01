@@ -7,6 +7,7 @@ on:
     paths:
       - 'people.json'
       - 'scripts/README-TEMPLATE.md'
+      - 'scripts/write-readme.js'
 
 jobs:
   generate-readme:
