@@ -10,8 +10,8 @@ const data = fs.readFileSync(`${parentFolderPath}/people.json`);
 const json = JSON.parse(data);
 
 // Table header
-const header = `|#|Name|URLs|Work|Topics|
-|---|---|---|---|---|
+const header = `|#|Name|URLs|Work|Languages|Topics|
+|---|---|---|---|---|---|
 `;
 
 //Order by name
@@ -31,7 +31,10 @@ const peopleList = json.people
                 }
             });
 
-            return `| ${++index}. | **[${person.name}](${person.scheduling})** | ${socials.join('<br/>')} | ${person.title} at ${person.company} | ${person.topics.join(', ')} |`
+            //Order by languages
+            person.languages.sort();
+
+            return `| ${++index}. | **[${person.name}](${person.scheduling})** | ${socials.join('<br/>')} | ${person.title} at ${person.company} | ${person.languages.join('<br/>')} | ${person.topics.join(', ')} |`
         }
     )
     .join("\r\n");
