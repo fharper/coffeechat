@@ -696,18 +696,18 @@
             "scheduling": "https://calendly.com/jettro/coffeechat",
             "online-only": false,
             "topics": [
-              "Search",
-              "Elasticsearch",
-              "OpenSearch",
-              "Vector Search",
-              "Weaviate",
-              "Large Language Models",
-              "Retrieval Augmented Generation",
-              "Software Architecture",
-              "Programming Java",
-              "Personal Development",
-              "Career choices",
-              "Life"
+                "Search",
+                "Elasticsearch",
+                "OpenSearch",
+                "Vector Search",
+                "Weaviate",
+                "Large Language Models",
+                "Retrieval Augmented Generation",
+                "Software Architecture",
+                "Programming Java",
+                "Personal Development",
+                "Career choices",
+                "Life"
             ]
         }
     ]
