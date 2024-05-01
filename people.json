@@ -51,7 +51,7 @@
             "online-only": false,
             "topics": [
                 "Public speaking",
-                "Information security, tech & privacy",
+                "Information security & privacy",
                 "Governance",
                 "Risk management",
                 "Compliance"
@@ -498,7 +498,7 @@
             "online-only": false,
             "topics": [
                 "Building a Company",
-                "Enterprise Architectures and Patterns",
+                "Enterprise Architectures & Patterns",
                 "Software Delivery and Automation",
                 "Kubernetes and Cloud Native",
                 "Infrastructure at Scale",
@@ -510,7 +510,7 @@
                 "Coaching",
                 "Woodworking",
                 "Gardening",
-                "Anything That You're Passionate About"
+                "Anything You're Passionate About"
             ]
         },
         {
@@ -584,7 +584,8 @@
                 "WebRTC",
                 "Mentorship",
                 "Career",
-                "Randomness/Complexity/Chaos/Patterns"
+                "Randomness & Complexity",
+                "Chaos & Patterns"
             ]
         },
         {
@@ -627,7 +628,8 @@
                 "AI/ML",
                 "Mentorship",
                 "Career",
-                "Randomness/Complexity/Chaos/Patterns",
+                "Randomness & Complexity",
+                "Chaos & Patterns",
                 "Culture",
                 "Programming languages",
                 "Compilers",
