@@ -29,14 +29,6 @@
                     "description": "Employer's company name",
                     "type": "string"
                 },
-                "city": {
-                    "description": "City where you live",
-                    "type": "string"
-                },
-                "country": {
-                    "description": "Country where you live",
-                    "type": "string"
-                },
                 "languages": {
                     "description": "Languages spoken well enough for a coffee chat",
                     "type": "array",
@@ -65,10 +57,6 @@
                 "scheduling":  {
                     "description": "Scheduling platform URL or mailto link",
                     "$ref": "#/definitions/validScheduling"
-                },
-                "online-only": {
-                    "description": "Whether you are open to in-person Coffee Chat (default: false)",
-                    "type": "boolean"
                 },
                 "topics": {
                     "description": "List of every topics you are de factor comfortable to discuss or give tips about",
