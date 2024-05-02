@@ -672,10 +672,14 @@
             "languages": ["English"],
             "linkedin": "https://www.linkedin.com/in/agardner1/",
             "scheduling": "https://calendly.com/agardnerit/30min",
+            "website": "https://agardner.net",
             "topics": [
                 "Observability",
                 "Feature flagging",
-                "SCUBA Diving"
+                "CNCF",
+                "Open source",
+                "SCUBA Diving",
+                "Teach me something new you're passionate about"
             ]
         }
     ]
