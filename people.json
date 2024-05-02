@@ -673,6 +673,7 @@
             "linkedin": "https://www.linkedin.com/in/agardner1/",
             "scheduling": "https://calendly.com/agardnerit/30min",
             "website": "https://agardner.net",
+            "mastodon": "https://techhub.social/@agardnerit",
             "topics": [
                 "Observability",
                 "Feature flagging",
