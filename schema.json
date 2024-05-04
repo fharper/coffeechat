@@ -5,96 +5,97 @@
     "description": "List of awesome people doing coffee chat",
     "type": "object",
     "properties": {
-		"people": {
-			"type": "array",
-			"items": {
-				"$ref": "#/$defs/person"
-			}
-		}
-	},
-	"$defs": {
-		"person": {
-		  "type": "object",
-			"description": "Information about one person",
-			"properties": {
-				"name": {
-					"description": "Full name",
-					"type": "string"
-				},
-				"title": {
-					"description": "Professional title",
-					"type": "string"
-				},
-				"company": {
-					"description": "Employer's company name",
-					"type": "string"
-				},
-				"city": {
-					"description": "City where you live",
-					"type": "string"
-				},
-				"country": {
-					"description": "Country where you live",
-					"type": "string"
-				},
-				"languages": {
-					"description": "Languages spoken well enough for a coffee chat",
-					"type": "array",
-					"items": {
-						"type": "string"
-					},
-					"minItems": 1,
-					"uniqueItems": true
-				},
-				"website":  {
-					"description": "Website URL",
-					"$ref": "#/definitions/validURL"
-				},
-				"linkedin":  {
-					"description": "LinkedIn profile URL",
-					"$ref": "#/definitions/validURL"
-				},
-				"twitter":  {
-					"description": "Twitter account URL",
-					"$ref": "#/definitions/validURL"
-				},
-				"scheduling":  {
-					"description": "Scheduling platform URL or mailto link",
-					"$ref": "#/definitions/validScheduling"
-				},
-				"online-only": {
-					"description": "Whether you are open to in-person Coffee Chat (default: false)",
-					"type": "boolean"
-				},
-				"topics": {
-					"description": "List of every topics you are de factor comfortable to discuss or give tips about",
-					"type": "array",
-					"items": {
-						"type": "string"
-					},
-					"minItems": 1,
-					"uniqueItems": true
-				}
-			},
-			"required": [
-				"name",
-				"title",
-				"company",
-				"languages",
-				"linkedin",
-				"scheduling",
-				"topics"
-			]
-		}
-	},
-	"definitions": {
-		"validURL": {
-			"type": "string",
-			"pattern": "(^https?://)|(^$)"
-		},
-		"validScheduling": {
-			"type": "string",
-			"pattern": "(^https?://)|(^mailto:)"
-		}
-	}
+        "people": {
+            "type": "array",
+            "items": {
+                "$ref": "#/$defs/person"
+            }
+        }
+    },
+    "$defs": {
+        "person": {
+          "type": "object",
+            "description": "Information about one person",
+            "properties": {
+                "name": {
+                    "description": "Full name",
+                    "type": "string"
+                },
+                "title": {
+                    "description": "Professional title",
+                    "type": "string"
+                },
+                "company": {
+                    "description": "Employer's company name",
+                    "type": "string"
+                },
+                "city": {
+                    "description": "City where you live",
+                    "type": "string"
+                },
+                "country": {
+                    "description": "Country where you live",
+                    "type": "string"
+                },
+                "languages": {
+                    "description": "Languages spoken well enough for a coffee chat",
+                    "type": "array",
+                    "items": {
+                        "type": "string"
+                    },
+                    "minItems": 1,
+                    "uniqueItems": true
+                },
+                "website":  {
+                    "description": "Website URL",
+                    "type": "string",
+                    "pattern": "(^https://)|(^$)"
+                },
+                "linkedin":  {
+                    "description": "LinkedIn profile URL",
+                    "type": "string",
+                    "pattern": "(^https://)|(^$)"
+                },
+                "twitter":  {
+                    "description": "Twitter account URL",
+                    "type": "string",
+                    "pattern": "(^https://)|(^$)"
+                },
+                "mastodon":  {
+                    "description": "Mastodon account URL",
+                    "type": "string",
+                    "pattern": "(^https://)|(^$)"
+                },
+                "scheduling":  {
+                    "description": "Scheduling platform URL or mailto link",
+                    "type": "string",
+                    "pattern": "(^https://)|(^mailto:)"
+                },
+                "online-only": {
+                    "description": "Whether you are open to in-person Coffee Chat (default: false)",
+                    "type": "boolean"
+                },
+                "topics": {
+                    "description": "List of every topics you are de factor comfortable to discuss or give tips about",
+                    "type": "array",
+                    "items": {
+                        "type": "string",
+                        "maxLength": 35
+                    },
+                    "minItems": 1,
+                    "uniqueItems": true
+                }
+            },
+            "required": [
+                "name",
+                "title",
+                "company",
+                "languages",
+                "linkedin",
+                "scheduling",
+                "topics"
+            ],
+            "additionalProperties": false
+        }
+    }
 }
