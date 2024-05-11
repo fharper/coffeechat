@@ -751,6 +751,27 @@
                 "SCUBA Diving",
                 "Teach me something new"
             ]
+        }, 
+        {
+            "name": "Vishruth Harithsa",
+            "title": "Engagement Manager",
+            "company": "Dynatrace",
+            "city": "Bengaluru",
+            "country": "India",
+            "languages": ["English", "Hindi"],
+            "website": "https://theharithsa.com",
+            "linkedin": "https://www.linkedin.com/in/theharithsa",
+            "twitter": "https://twitter.com/theharithsa",
+            "scheduling": "https://calendly.com/theharithsa",
+            "online-only": false,
+            "topics": [
+                "Software Development",
+                "JavaScript",
+                "Observability", 
+                "Algorithm Design",
+                "Mentoring on Technology",
+                "AMA on Technology to keep me interested"
+            ]
         }
     ]
 }
