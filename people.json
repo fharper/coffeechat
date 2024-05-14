@@ -751,6 +751,27 @@
                 "SCUBA Diving",
                 "Teach me something new"
             ]
+        },
+        
+        {
+            "name": "Nicolas Grenié",
+            "title": "Developer Advocate",
+            "company": "Typeform",
+            "languages": ["French","English", "Spanish"],
+            "linkedin": "https://www.linkedin.com/in/nicolasgrenie/",
+            "city": "Barcelona",
+            "country": "Spain",
+            "twitter": "https://twitter.com/picsoung",
+            "scheduling": "https://cal.com/@picsoung/30min",
+            "website": "https://nicolasgrenie.com",
+            "topics": [
+                "Developer Relations",
+                "APIs",
+                "Low code and No code",
+                "Automation",
+                "Product Hunt",
+                "Developer tools"
+            ]
         }
     ]
 }
