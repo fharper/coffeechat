@@ -756,7 +756,7 @@
             "name": "Nicolas Grenié",
             "title": "Developer Advocate",
             "company": "Typeform",
-            "languages": ["French","English", "Spanish"],
+            "languages": ["French", "English", "Spanish"],
             "linkedin": "https://www.linkedin.com/in/nicolasgrenie/",
             "city": "Barcelona",
             "country": "Spain",
@@ -771,7 +771,7 @@
                 "Product Hunt",
                 "Developer tools"
             ]
-        }, 
+        },
         {
             "name": "Vishruth Harithsa",
             "title": "Engagement Manager",
@@ -787,10 +787,10 @@
             "topics": [
                 "Software Development",
                 "JavaScript",
-                "Observability", 
+                "Observability",
                 "Algorithm Design",
                 "Mentoring on Technology",
-                "AMA on Technology", 
+                "AMA on Technology",
                 "Teach me something interesting"
             ]
         }
