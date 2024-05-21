@@ -66,6 +66,11 @@
                     "type": "string",
                     "pattern": "(^https://)|(^$)"
                 },
+                "github":  {
+                    "description": "GitHub Profile URL",
+                    "type": "string",
+                    "pattern": "(^https://)|(^$)"
+                },
                 "scheduling":  {
                     "description": "Scheduling platform URL or mailto link",
                     "type": "string",
