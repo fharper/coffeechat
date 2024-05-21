@@ -793,6 +793,34 @@
                 "AMA on Technology",
                 "Teach me something interesting"
             ]
+        },
+        {
+            "name": "Joel Lord",
+            "title": "Lead Developer Advocate",
+            "company": "MongoDB",
+            "city": "Ottawa",
+            "country": "Canada",
+            "languages": ["English", "French"],
+            "website": "https://javascripteverything.com",
+            "linkedin": "https://www.linkedin.com/in/joel-lord",
+            "twitter": "https://twitter.com/joel__lord",
+            "github": "https://github.com/joellord",
+            "scheduling": "https://www.getclockwise.com/c/joel-lord-mongodb-com/quick-meeting",
+            "online-only": false,
+            "topics": [
+                "MongoDB",
+                "Database",
+                "Software Development",
+                "JavaScript",
+                "Open-Source",
+                "Mental Health",
+                "Developer Relations",
+                "Job Search",
+                "Resume",
+                "Beer Brewing",
+                "Travel",
+                "Anything else"
+            ]
         }
     ]
 }
