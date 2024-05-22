@@ -219,29 +219,6 @@
             ]
         },
         {
-            "name": "Anthony Dellavecchia",
-            "title": "Developer Evangelist, Staff",
-            "company": "Twilio",
-            "city": "Seattle",
-            "country": "United States of America",
-            "languages": ["English"],
-            "linkedin": "https://www.linkedin.com/in/anthonydellavecchia",
-            "twitter": "https://twitter.com/anthonyjdella",
-            "scheduling": "https://calendly.com/anthonyjdella/chat",
-            "online-only": false,
-            "topics": [
-                "Software Engineering",
-                "Developer Relations",
-                "Developers Documentation",
-                "Community Building",
-                "Personal Branding",
-                "Starting in Tech",
-                "Job Search",
-                "Mental Health",
-                "Imposter Syndrome"
-            ]
-        },
-        {
             "name": "Julien Lengrand-Lambert",
             "title": "Lead Developer Advocate",
             "company": "Adyen",
