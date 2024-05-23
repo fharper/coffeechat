@@ -798,6 +798,27 @@
                 "Travel",
                 "Anything else"
             ]
+        },
+        {
+            "name": "Mohamed Abdul Hameed",
+            "title": "Software Engineer",
+            "city": "Jeddah",
+            "country": "Saudi Arabia",
+            "languages": ["English"],
+            "twitter": "https://x.com/mohamed_jeddah",
+            "website": "https://mojed.simple.ink",
+            "linkedin": "https://www.linkedin.com/in/mojed7",
+            "scheduling": "https://cal.com/mojed",
+            "online-only": false,
+            "topics": [
+                "Transitioning to tech",
+                "JavaScript",
+                "Kubernetes",
+                "Devops",
+                "Livestreaming",
+                "Religion/Spirituality",
+                "Anything else"
+            ]
         }
     ]
 }
