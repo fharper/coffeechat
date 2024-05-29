@@ -1,0 +1,21 @@
+---
+name: Markdown Links Validation
+
+on: [push, workflow_dispatch, pull_request]
+
+jobs:
+  markdown-link-check:
+
+    runs-on: ubuntu-latest
+    steps:
+
+      - name: Checkout this repository
+        uses: actions/checkout@v4.1.0
+
+      - name: Validate Links Markdown files
+        if: always()
+        uses: gaurav-nelson/github-action-markdown-link-check@1.0.15
+        with:
+          config-file: '.markdownlinkcheck.json'
+          use-quiet-mode: 'yes'
+          file-extension: '.md'

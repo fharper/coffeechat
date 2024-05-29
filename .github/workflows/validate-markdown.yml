@@ -1,5 +1,6 @@
 name: Markdown Syntax Validation
 on:
+  workflow_dispatch:
   push:
     paths:
       - 'scripts/README-TEMPLATE.md'
@@ -9,15 +10,15 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout this repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4.1.1
 
       - name: Setting up Node.js
-        uses: actions/setup-node@v3
+        uses: actions/setup-node@v4.0.2
         with:
-          node-version: '18'
+          node-version: 'v20.12.2'
 
-      - name: Installing markdownlint-cli2
-        run: npm i -g markdownlint-cli2
-
-      - name: Check the Markdown
-        run: markdownlint-cli2-config .markdownlint.json "scripts/README-TEMPLATE.md"
+      - name: Validate Markdown (${{ matrix.configs.which }})
+        uses: DavidAnson/markdownlint-cli2-action@v16.0.0
+        with:
+          config: ".markdownlint.json"
+          globs: "scripts/README-TEMPLATE.md"
