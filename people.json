@@ -1,6 +1,32 @@
 {
     "people": [
         {
+            "name": "Bob Fornal",
+            "title": "Senior Solutions Developer II",
+            "company": "Leading EDJE, Inc.",
+            "city": "Columbus, Ohio",
+            "country": "United States of America ",
+            "languages": ["English"],
+            "linkedin": "https://www.linkedin.com/in/rfornal/",
+            "twitter": "https://twitter.com/rfornal",
+            "scheduling": "https://calendly.com/bob-fornal/60min",
+            "online-only": false,
+            "topics": [
+                "Frontend",
+                "Starting in Tech",
+                "Job Search",
+                "Personal Branding",
+                "LinkedIn",
+                "Resume",
+                "Angular",
+                "React",
+                "Vue",
+                "JavaScript",
+                "HTML",
+                "CSS"
+            ]
+        },
+        {
             "name": "Frédéric Harper",
             "title": "Principal Developer Advocate",
             "company": "Kubefirst",
@@ -797,6 +823,41 @@
                 "Devops",
                 "Livestreaming",
                 "Religion/Spirituality",
+                "Anything else"
+            ]
+        },
+        {
+            "name": "Ivan Pesenti",
+            "title": "Software Engineer",
+            "company": "Dectar",
+            "city": "Bergamo",
+            "country": "Italy",
+            "languages": ["English", "Italian"],
+            "website": "https://ivanpesentidev.netlify.app/",
+            "linkedin": "https://www.linkedin.com/in/ivan-pesenti-735232119/",
+            "twitter": "https://x.com/ossandev",
+            "github": "https://github.com/ossan-dev",
+            "scheduling": "https://calendar.app.google/pjdmJEb4crGVHgdCA",
+            "online-only": false,
+            "topics": [
+                "Go",
+                "Testing",
+                "csharp",
+                "Linux",
+                "Databases",
+                "System Design",
+                "Software Development",
+                "Backend/API",
+                "Public speaking",
+                "Personal Branding",
+                "Developer Relations",
+                "Mentoring",
+                "Technical Writing",
+                "Interviewing",
+                "LinkedIn",
+                "CV/Resume",
+                "Food",
+                "Sports",
                 "Anything else"
             ]
         }
