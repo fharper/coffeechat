@@ -856,6 +856,35 @@
                 "Sports",
                 "Anything else"
             ]
+        },
+        {
+            "name": "Guido Penta",
+            "title": "Tech Recruiter",
+            "company": "forloop.tech",
+            "city": "Rome",
+            "country": "Italy",
+            "languages": [
+                "English",
+                "Italian"
+            ],
+            "website": "https://www.forloop.tech",
+            "linkedin": "https://www.linkedin.com/in/guido-penta/",
+            "github": "https://github.com/GuidoPenta",
+            "scheduling": "https://cal.com/guido-penta/career-meeting",
+            "online-only": false,
+            "topics": [
+                "CV Review",
+                "LinkedIn",
+                "Personal branding",
+                "How to manage an interview",
+                "Work in Italy",
+                "How to write a CV for devs",
+                "Work-related topics",
+                "Soft skills",
+                "Public Speaking",
+                "Mentoring",
+                "Everything you want"
+            ]
         }
     ]
 }
