@@ -856,6 +856,39 @@
                 "Sports",
                 "Anything else"
             ]
+        },
+        {
+            "name": "Alessandro Oppedisano",
+            "title": "Full stack Developer",
+            "company": "Pharmercure",
+            "city": "Turin",
+            "country": "Italy",
+            "languages": ["Italian", "English"],
+            "linkedin": "https://www.linkedin.com/in/alessandro-oppedisano/",
+            "scheduling": "https://calendly.com/alessandro-oppe/15min",
+            "online-only": false,
+            "topics": [
+                "Frontend",
+                "Starting in Tech",
+                "Job Search",
+                "Startup",
+                "Work in italy",
+                "Backend",
+                "LinkedIn",
+                "Resume",
+                "Angular",
+                "React",
+                "Vue",
+                "JavaScript",
+                "HTML",
+                "CSS",
+                "C#",
+                "Java",
+                "Dogs and Cats",
+                "Cinema",
+                "Music",
+                "Books and Comics"
+            ]
         }
     ]
 }
