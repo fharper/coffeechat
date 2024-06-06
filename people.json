@@ -6,9 +6,7 @@
             "company": "Leading EDJE, Inc.",
             "city": "Columbus, Ohio",
             "country": "United States of America ",
-            "languages": [
-                "English"
-            ],
+            "languages": ["English"],
             "linkedin": "https://www.linkedin.com/in/rfornal/",
             "twitter": "https://twitter.com/rfornal",
             "scheduling": "https://calendly.com/bob-fornal/60min",
@@ -34,10 +32,7 @@
             "company": "Kubefirst",
             "city": "Montréal",
             "country": "Canada",
-            "languages": [
-                "English",
-                "French"
-            ],
+            "languages": ["English", "French"],
             "website": "https://fred.dev",
             "linkedin": "https://www.linkedin.com/in/fredericharper",
             "twitter": "https://twitter.com/fharper",
@@ -75,10 +70,7 @@
             "company": "Dicaire.com",
             "city": "Montréal",
             "country": "Canada",
-            "languages": [
-                "English",
-                "French"
-            ],
+            "languages": ["English", "French"],
             "website": "https://dicaire.com",
             "linkedin": "https://www.linkedin.com/in/bhdicaire",
             "scheduling": "https://calendly.com/bhdicaire/20m",
@@ -97,9 +89,7 @@
             "company": "Square @ Block, Inc.",
             "city": "Oakland",
             "country": "United States of America",
-            "languages": [
-                "English"
-            ],
+            "languages": ["English"],
             "linkedin": "https://www.linkedin.com/in/richardmoot",
             "twitter": "https://twitter.com/wootmoot",
             "scheduling": "https://calendar.google.com/calendar/appointments/schedules/AcZssZ3GTtVFlHeYvKVgbxeje5kvnNWdfz8NgP8veCST2A698ybgznKYLNUxZJHCVVAQS1mmqlhmS73n",
@@ -126,9 +116,7 @@
             "company": "Vonage",
             "city": "London",
             "country": "England",
-            "languages": [
-                "English"
-            ],
+            "languages": ["English"],
             "linkedin": "https://www.linkedin.com/in/zachary-mg-powell",
             "twitter": "https://twitter.com/devwithzachary",
             "scheduling": "https://calendar.app.google/kf8WKmRbxbkkxhbR6",
@@ -150,11 +138,7 @@
             "company": "DHIS2",
             "city": "Rotterdam",
             "country": "Netherlands",
-            "languages": [
-                "English",
-                "Dutch",
-                "Frisian"
-            ],
+            "languages": ["English", "Dutch", "Frisian"],
             "linkedin": "https://www.linkedin.com/in/wraldpyk/",
             "twitter": "https://twitter.com/wraldpyk",
             "mastodon": "https://fosstodon.org/@wraldpyk",
@@ -179,9 +163,7 @@
             "company": "AWS",
             "city": "London",
             "country": "England",
-            "languages": [
-                "English"
-            ],
+            "languages": ["English"],
             "linkedin": "https://www.linkedin.com/in/ricardosueiras",
             "twitter": "https://twitter.com/094459",
             "scheduling": "https://calendly.com/ricardo-sueiras/you-are-amazing",
@@ -201,9 +183,7 @@
             "company": "RBC",
             "city": "Montreal",
             "country": "Canada",
-            "languages": [
-                "English"
-            ],
+            "languages": ["English"],
             "linkedin": "https://www.linkedin.com/in/shannonlal",
             "twitter": "https://twitter.com/shannondlal",
             "scheduling": "https://calendly.com/shannonlal/30min",
@@ -225,9 +205,7 @@
             "company": "Perficient",
             "city": "Columbus, Ohio",
             "country": "United States of America ",
-            "languages": [
-                "English"
-            ],
+            "languages": ["English"],
             "linkedin": "https://www.linkedin.com/in/baskarrao-dandlamudi/",
             "twitter": "https://twitter.com/baskarmib",
             "scheduling": "https://calendly.com/baskarmib/30min",
@@ -247,11 +225,7 @@
             "company": "Adyen",
             "city": "Utrecht",
             "country": "the Netherlands",
-            "languages": [
-                "English",
-                "French",
-                "Dutch"
-            ],
+            "languages": ["English", "French", "Dutch"],
             "linkedin": "https://www.linkedin.com/in/julienlengrand/",
             "twitter": "https://twitter.com/jlengrand",
             "scheduling": "https://calendly.com/jlengrand",
@@ -278,9 +252,7 @@
             "company": "Zeals",
             "city": "Tokyo",
             "country": "Japan",
-            "languages": [
-                "English"
-            ],
+            "languages": ["English"],
             "linkedin": "https://www.linkedin.com/in/mikestaffa/",
             "twitter": "https://twitter.com/mtstaffa",
             "scheduling": "https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ2ORDYuLhQBn4UgTLumBjC8UgC_lAIItfA3upgMX6TR-NlL-JkwZNz7z8aHy2n05ilPfycvPqkT",
@@ -302,9 +274,7 @@
             "company": "Affinity Employer Services/Freelancing",
             "city": "Auckland",
             "country": "New Zealand",
-            "languages": [
-                "English"
-            ],
+            "languages": ["English"],
             "linkedin": "https://www.linkedin.com/in/jody-winter/",
             "twitter": "",
             "website": "https://jodywinter.com/",
@@ -330,10 +300,7 @@
             "company": "Thoughtworks",
             "city": "New York City",
             "country": "USA",
-            "languages": [
-                "English",
-                "Spanish"
-            ],
+            "languages": ["English", "Spanish"],
             "linkedin": "https://www.linkedin.com/in/lidia-de-la-cruz/",
             "twitter": "https://twitter.com/poderosacoding",
             "scheduling": "mailto:contact@poderosacoding.com",
@@ -357,9 +324,7 @@
             "company": "Google",
             "city": "New York City",
             "country": "USA",
-            "languages": [
-                "English"
-            ],
+            "languages": ["English"],
             "linkedin": "https://www.linkedin.com/in/maximiliano-merced/",
             "twitter": "https://twitter.com/_maxrios",
             "scheduling": "mailto:max@maxrios.dev",
@@ -384,9 +349,7 @@
             "company": "N/A",
             "city": "El Paso, TX",
             "country": "United States",
-            "languages": [
-                "English"
-            ],
+            "languages": ["English"],
             "linkedin": "https://www.linkedin.com/in/mbarnestech/",
             "twitter": "https://twitter.com/mbarnestech",
             "scheduling": "https://calendly.com/mbarnestech/coffee_chat",
@@ -410,9 +373,7 @@
             "city": "Lagos",
             "country": "Nigeria",
             "website": "https://biodrop.io/tobySolutions",
-            "languages": [
-                "English"
-            ],
+            "languages": ["English"],
             "linkedin": "https://www.linkedin.com/in/tobiloba-adedeji/",
             "twitter": "https://twitter.com/toby_solutions",
             "scheduling": "https://cal.com/toby-solutions/30min",
@@ -433,9 +394,7 @@
             "company": " Request Mechanic",
             "city": "Lagos",
             "country": "Nigeria",
-            "languages": [
-                "English"
-            ],
+            "languages": ["English"],
             "website": "https://mainstack.me/ochuko",
             "linkedin": "https://www.linkedin.com/in/ochuko-onojakpor-5a156515b",
             "twitter": "https://twitter.com/LordChuks3",
@@ -464,10 +423,7 @@
             "company": "N/A",
             "city": "Minna",
             "country": "Nigeria",
-            "languages": [
-                "English",
-                "Arabic"
-            ],
+            "languages": ["English", "Arabic"],
             "linkedin": "https://www.linkedin.com/in/rasheedtaiwo/",
             "twitter": "https://twitter.com/taiwrash",
             "scheduling": "https://cal.com/taiwrash/30min",
@@ -490,9 +446,7 @@
             "company": "Kubefirst",
             "city": "Washington, DC",
             "country": "United States",
-            "languages": [
-                "English"
-            ],
+            "languages": ["English"],
             "website": "https://kubefirst.github.io/speaking/speakers/john.html",
             "linkedin": "https://www.linkedin.com/in/jd-k8s",
             "twitter": "https://twitter.com/vitamindietz",
@@ -521,9 +475,7 @@
             "company": "Reddit",
             "city": "Charlottesville",
             "country": "United States",
-            "languages": [
-                "English"
-            ],
+            "languages": ["English"],
             "website": "https://softwaredoug.com",
             "linkedin": "https://www.linkedin.com/in/softwaredoug/",
             "twitter": "https://twitter.com/softwaredoug",
@@ -549,10 +501,7 @@
             "company": "Schibsted Media",
             "city": "Oslo",
             "country": "Norway",
-            "languages": [
-                "English",
-                "Welsh"
-            ],
+            "languages": ["English", "Welsh"],
             "linkedin": "https://www.linkedin.com/in/noah-h-1264371ab/",
             "twitter": "https://twitter.com/derwlang",
             "scheduling": "https://calendly.com/eeue56",
@@ -576,10 +525,7 @@
             "company": "Verkada",
             "city": "Los Angeles",
             "country": "United States",
-            "languages": [
-                "English",
-                "Polish"
-            ],
+            "languages": ["English", "Polish"],
             "linkedin": "https://www.linkedin.com/in/chrishiszpanski/",
             "twitter": "",
             "scheduling": "https://calendly.com/hiszpanski/coffee-chat",
@@ -604,10 +550,7 @@
             "company": "Chargebee",
             "city": "Chennai",
             "country": "India",
-            "languages": [
-                "English",
-                "Tamil"
-            ],
+            "languages": ["English", "Tamil"],
             "linkedin": "https://www.linkedin.com/in/thiagarajansriram",
             "twitter": "https://twitter.com/tsriram",
             "scheduling": "https://cal.com/tsriram/30min",
@@ -632,11 +575,7 @@
             "company": "Apollo Black",
             "city": "Cape Town",
             "country": "South Africa",
-            "languages": [
-                "English",
-                "German",
-                "Afrikaans"
-            ],
+            "languages": ["English", "German", "Afrikaans"],
             "linkedin": "https://www.linkedin.com/in/seannieuwoudt/",
             "twitter": "https://twitter.com/ghstcode",
             "scheduling": "https://calendly.com/ghstcode",
@@ -668,10 +607,7 @@
             "company": "N/A",
             "city": "La Romana",
             "country": "Dominican Republic",
-            "languages": [
-                "English",
-                "Spanish"
-            ],
+            "languages": ["English", "Spanish"],
             "linkedin": "https://www.linkedin.com/in/wilbursuero",
             "twitter": "https://twitter.com/wilburhimself",
             "scheduling": "https://calendly.com/suerowilbur/30min",
@@ -691,10 +627,7 @@
             "company": "Pale Blue",
             "city": "Nicosia",
             "country": "Cyprus",
-            "languages": [
-                "Greek",
-                "English"
-            ],
+            "languages": ["Greek", "English"],
             "linkedin": "https://www.linkedin.com/in/myerou/",
             "scheduling": "https://calendly.com/myerou/video-call",
             "online-only": true,
@@ -717,10 +650,7 @@
             "company": "Luminis",
             "city": "Pijnacker",
             "country": "The Netherlands",
-            "languages": [
-                "Dutch",
-                "English"
-            ],
+            "languages": ["Dutch", "English"],
             "website": "https://jettro.dev",
             "linkedin": "https://www.linkedin.com/in/jettro",
             "scheduling": "https://calendly.com/jettro/coffeechat",
@@ -746,9 +676,7 @@
             "company": "Indeed",
             "city": "Austin",
             "country": "United State of America",
-            "languages": [
-                "English"
-            ],
+            "languages": ["English"],
             "twitter": "https://www.twitter.com/anusien",
             "linkedin": "https://www.linkedin.com/in/kevinbinswanger/",
             "scheduling": "https://calendly.com/kbinswanger/30min",
@@ -771,10 +699,7 @@
             "company": "Indeed",
             "city": "Seattle",
             "country": "United State of America",
-            "languages": [
-                "English",
-                "Chinese"
-            ],
+            "languages": ["English", "Chinese"],
             "linkedin": "https://www.linkedin.com/in/prclqz/",
             "scheduling": "https://calendly.com/prclqz/30min",
             "topics": [
@@ -791,9 +716,7 @@
             "name": "Adam Gardner",
             "title": "DevRel",
             "company": "Dynatrace",
-            "languages": [
-                "English"
-            ],
+            "languages": ["English"],
             "linkedin": "https://www.linkedin.com/in/agardner1/",
             "scheduling": "https://calendly.com/agardnerit/30min",
             "website": "https://agardner.net",
@@ -811,11 +734,7 @@
             "name": "Nicolas Grenié",
             "title": "Developer Advocate",
             "company": "Typeform",
-            "languages": [
-                "French",
-                "English",
-                "Spanish"
-            ],
+            "languages": ["French", "English", "Spanish"],
             "linkedin": "https://www.linkedin.com/in/nicolasgrenie/",
             "city": "Barcelona",
             "country": "Spain",
@@ -837,10 +756,7 @@
             "company": "Dynatrace",
             "city": "Bengaluru",
             "country": "India",
-            "languages": [
-                "English",
-                "Hindi"
-            ],
+            "languages": ["English", "Hindi"],
             "website": "https://theharithsa.com",
             "linkedin": "https://www.linkedin.com/in/theharithsa",
             "twitter": "https://twitter.com/theharithsa",
@@ -862,10 +778,7 @@
             "company": "MongoDB",
             "city": "Ottawa",
             "country": "Canada",
-            "languages": [
-                "English",
-                "French"
-            ],
+            "languages": ["English", "French"],
             "website": "https://javascripteverything.com",
             "linkedin": "https://www.linkedin.com/in/joel-lord",
             "twitter": "https://twitter.com/joel__lord",
@@ -893,9 +806,7 @@
             "company": "100Devs Agency",
             "city": "Jeddah",
             "country": "Saudi Arabia",
-            "languages": [
-                "English"
-            ],
+            "languages": ["English"],
             "twitter": "https://x.com/mohamed_jeddah",
             "website": "https://mojed.simple.ink",
             "linkedin": "https://www.linkedin.com/in/mojed7",
@@ -917,10 +828,7 @@
             "company": "Dectar",
             "city": "Bergamo",
             "country": "Italy",
-            "languages": [
-                "English",
-                "Italian"
-            ],
+            "languages": ["English", "Italian"],
             "website": "https://ivanpesentidev.netlify.app/",
             "linkedin": "https://www.linkedin.com/in/ivan-pesenti-735232119/",
             "twitter": "https://x.com/ossandev",
