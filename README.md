@@ -40,6 +40,8 @@ List of awesome people offering their time **for free** to have a "coffee chat" 
 | **[Wilbur Suero](https://calendly.com/suerowilbur/30min)** | [LinkedIn](https://www.linkedin.com/in/wilbursuero)<br/>[Twitter](https://twitter.com/wilburhimself) | Software Engineer at N/A | English<br/>Spanish | Developer Experience<br/>React<br/>Ruby on Rails<br/>Software Engineering<br/>Tech<br/>Web |
 | **[Zachary Powell](https://calendar.app.google/kf8WKmRbxbkkxhbR6)** | [LinkedIn](https://www.linkedin.com/in/zachary-mg-powell)<br/>[Twitter](https://twitter.com/devwithzachary) | Sr Android Developer Advocate at Vonage | English | Android<br/>DevRel<br/>Developer Relations<br/>Job Searching<br/>Mobile<br/>Software Engineering<br/>Starting in Tech<br/>Tech |
 
+| **[Monika Rajput](https://calendar.app.google/VAT7ByauYH1BPsap9)** | [LinkedIn](https://www.linkedin.com/in/mounicarajput/)<br/>[Twitter](https://x.com/mounicarajput) | Sr Data and Cloud engineer | English | Data Engineering<br/>AI<br/>Developer Relations<br/>Job Searching<br/>Public speaking<br/>Business & Startups<br/>Starting in Tech<br/>Tech |
+
 ## Add yourself to this list
 
 See [CONTRIBUTING.md](CONTRIBUTING.md) for more information.
