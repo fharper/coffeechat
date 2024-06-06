@@ -1,6 +1,32 @@
 {
     "people": [
         {
+            "name": "Bob Fornal",
+            "title": "Senior Solutions Developer II",
+            "company": "Leading EDJE, Inc.",
+            "city": "Columbus, Ohio",
+            "country": "United States of America ",
+            "languages": ["English"],
+            "linkedin": "https://www.linkedin.com/in/rfornal/",
+            "twitter": "https://twitter.com/rfornal",
+            "scheduling": "https://calendly.com/bob-fornal/60min",
+            "online-only": false,
+            "topics": [
+                "Frontend",
+                "Starting in Tech",
+                "Job Search",
+                "Personal Branding",
+                "LinkedIn",
+                "Resume",
+                "Angular",
+                "React",
+                "Vue",
+                "JavaScript",
+                "HTML",
+                "CSS"
+            ]
+        },
+        {
             "name": "Frédéric Harper",
             "title": "Principal Developer Advocate",
             "company": "Kubefirst",
