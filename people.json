@@ -916,6 +916,28 @@
                 "Mentoring",
                 "Everything you want"
             ]
+        },
+        {
+            "name": "Ben Alldridge",
+            "title": "Senior Software Engineer",
+            "company": "Valarian",
+            "city": "London",
+            "country": "United Kingdom",
+            "languages": ["English"],
+            "linkedin": "https://www.linkedin.com/in/ben-alldridge/",
+            "scheduling": "mailto:coffeechat@onkraken.net",
+            "online-only": false,
+            "topics": [
+                "Starting in Tech",
+                "Job Search",
+                "Golang",
+                "Terraform",
+                "Backend",
+                "API",
+                "Gundam",
+                "Final Fantasy",
+                "Working while disabled"
+            ]
         }
     ]
 }
