@@ -1,6 +1,32 @@
 {
     "people": [
         {
+            "name": "Enrico Zerilli",
+            "title": "Senior Integration Developer",
+            "company": "EnL Software Integration",
+            "city": "Lugano",
+            "country": "Switzerland ",
+            "languages": ["English"],
+            "linkedin": "https://www.linkedin.com/in/enrico-zerilli-209b031/",
+            "website": "https://enricozerilli.com",
+            "scheduling": "https://calendly.com/enricozerilli",
+            "online-only": false,
+            "topics": [
+                "BizTalk",
+                "Azure Integration Services",
+                "C#",
+                "VB.NET",
+                "LinkedIn",
+                "Resume",
+                "SOA",
+                "WCF",
+                ".NET",
+                "SQL",
+                "MVC",
+                "WPF"
+            ]
+        },
+        {
             "name": "Bob Fornal",
             "title": "Senior Solutions Developer II",
             "company": "Leading EDJE, Inc.",
