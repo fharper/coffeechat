@@ -205,8 +205,8 @@
         },
         {
             "name": "Shannon Lal",
-            "title": "Director, Journey Technical Lead",
-            "company": "RBC",
+            "title": "VP Engineering",
+            "company": "Designstripe",
             "city": "Montreal",
             "country": "Canada",
             "languages": ["English"],
@@ -219,10 +219,14 @@
                 "Job Searching",
                 "Web",
                 "Dev Ops",
-                "React",
+                "LLM",
                 "Tech",
-                "NodeJS",
-                "Software Engineering"
+                "Software Engineering",
+                "AI",
+                "LangChain",
+                "Fine-Tuning LLM",
+                "Leadership",
+                "Startups"
             ]
         },
         {
