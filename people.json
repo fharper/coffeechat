@@ -942,6 +942,33 @@
                 "Mentoring",
                 "Everything you want"
             ]
+        },
+        {
+            "name": "Bart Lens",
+            "title": "Founding engineer",
+            "company": "Conveo (YC S24)",
+            "city": "Brussels",
+            "country": "Belgium",
+            "languages": ["Dutch", "English"],
+            "linkedin": "https://www.linkedin.com/in/lensbart",
+            "github": "http://github.com/lensbart",
+            "scheduling": "https://cal.com/bartlens",
+            "online-only": false,
+            "topics": [
+                "Books",
+                "CSS",
+                "Design",
+                "Entrepreneurship",
+                "Frontend",
+                "HTML",
+                "JavaScript",
+                "Mentoring",
+                "Music",
+                "React",
+                "Startups",
+                "Teach me something new/interesting",
+                "TypeScript",
+            ]
         }
     ]
 }
