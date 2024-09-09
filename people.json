@@ -969,6 +969,25 @@
                 "Teach me something new/interesting",
                 "TypeScript"
             ]
+        },
+        {
+            "name": "Kang-Kyu Lee",
+            "title": "Software engineer",
+            "company": "Lining Link LLC",
+            "city": "Los Angelees",
+            "country": "United States",
+            "languages": ["Korean", "English"],
+            "linkedin": "https://www.linkedin.com/in/kangkyulee",
+            "github": "https://github.com/kangkyu",
+            "scheduling": "https://calendly.com/kangkyu1111/50min",
+            "online-only": true,
+            "topics": [
+                "Programming Golang",
+                "Ruby on Rails",
+                "Backend",
+                "Coding interview preparation",
+                "Pair programming"
+            ]
         }
     ]
 }
