@@ -1,6 +1,36 @@
 {
     "people": [
         {
+            "name": "Simon Emms",
+            "title": "Engineer",
+            "company": "Kubefirst",
+            "city": "Telford",
+            "country": "United Kingdom",
+            "languages": ["English"],
+            "website": "https://simonemms.com",
+            "linkedin": "https://www.linkedin.com/in/simonemms",
+            "twitter": "https://twitter.com/mrsimonemms",
+            "github": "https://github.com/mrsimonemms",
+            "scheduling": "https://calendly.com/simon-emms/coffee-chat",
+            "online-only": false,
+            "topics": [
+                "Engineering (software)",
+                "Engineering (civil)",
+                "Software Development",
+                "Kubernetes",
+                "Cloud-native",
+                "Mentoring",
+                "Recruitment",
+                "Beekeeping",
+                "Gardening",
+                "History",
+                "Woodworking",
+                "Making stuff",
+                "Comedy",
+                "Just a jolly good chat"
+            ]
+        },
+        {
             "name": "Phil Miller",
             "title": "Co-founder",
             "company": "DMNO",
