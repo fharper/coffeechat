@@ -1,6 +1,32 @@
 {
     "people": [
         {
+            "name": "Phil Miller",
+            "title": "Co-founder",
+            "company": "DMNO",
+            "city": "Hamilton, ON",
+            "country": "Canada",
+            "languages": ["English"],
+            "linkedin": "https://www.linkedin.com/in/themillman/",
+            "website": "https://dmno.dev/",
+            "scheduling": "https://calendar.app.google/8nnJJhP6bqbiKnEf8",
+            "online-only": false,
+            "github": "https://github.com/philmillman",
+            "topics": [
+                "Developer Tools",
+                "DevOps",
+                "Developer Documentation",
+                "DevRel",
+                "Frontend",
+                "Engineering Management",
+                "Configuration as Code",
+                "Startups",
+                "Trail Running",
+                "Music Tech",
+                "Jurassic Park"
+            ]
+        },
+        {
             "name": "John Berryman",
             "title": "Principal Consultant",
             "company": "Arcturus Labs",
