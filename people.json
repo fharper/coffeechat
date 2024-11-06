@@ -1,6 +1,27 @@
 {
     "people": [
         {
+            "name": "John Berryman",
+            "title": "Principal Consultant",
+            "company": "Arcturus Labs",
+            "city": "Nashville, Tennessee",
+            "country": "United States",
+            "languages": ["English"],
+            "linkedin": "https://www.linkedin.com/in/john-berryman-864b1713/",
+            "website": "https://arcturus-labs.com/",
+            "scheduling": "https://calendly.com/jfberryman/30min",
+            "online-only": false,
+            "twitter": "https://x.com/jnbrymn",
+            "github": "https://github.com/jnbrymn",
+            "topics": [
+                "AI/LLM Application Development",
+                "Consulting",
+                "Retrieval Technology",
+                "The Nature of Consciousness",
+                "Community Building"
+            ]
+        },
+        {
             "name": "Enrico Zerilli",
             "title": "Senior Integration Developer",
             "company": "EnL Software Integration",
