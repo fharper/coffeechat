@@ -1035,6 +1035,32 @@
                 "Coding interview preparation",
                 "Pair programming"
             ]
+        },
+        {
+            "city": "London",
+            "company": "Independent",
+            "country": "United Kingdom",
+            "github": "https://github.com/swade1987",
+            "languages": ["English"],
+            "linkedin": "https://www.linkedin.com/in/stevendavidwade",
+            "name": "Steve Wade",
+            "online-only": true,
+            "scheduling": "https://cal.com/swade1987/coffee-chat",
+            "title": "Cloud-Native Consultant & Trainer",
+            "topics": [
+                "Cloud-Native ecosystem",
+                "CV Review",
+                "Everything you want",
+                "GitOps",
+                "How to manage an interview",
+                "LinkedIn",
+                "Mentoring",
+                "Personal branding",
+                "Public Speaking",
+                "Soft skills",
+                "Work-related topics"
+            ],
+            "website": "https://www.stevenwade.co.uk"
         }
     ]
 }
