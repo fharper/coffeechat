@@ -1091,6 +1091,33 @@
                 "Work-related topics"
             ],
             "website": "https://www.stevenwade.co.uk"
+        },
+        {
+            "city": "Amsterdam",
+            "company": "Independent",
+            "country": "Netherlands",
+            "github": "https://github.com/mbianchidev",
+            "twitter": "https://mbianchidev.bsky.social/",
+            "languages": ["English","Italian"],
+            "linkedin": "https://www.linkedin.com/in/mbianchidev",
+            "name": "Matteo Bianchi",
+            "online-only": true,
+            "scheduling": "https://mb-consulting.dev/book15",
+            "title": "Cloud Native Engineer",
+            "topics": [
+                "Platform Engineering",
+                "Open Source",
+                "Community",
+                "Kubernetes",
+                "Cloud Native",
+                "CNCF",
+                "CV Review",
+                "Mock Interview",
+                "Public Speaking",
+                "Personal Finance",
+                "Metal Music"
+            ],
+            "website": "https://mb-consulting.dev"
         }
     ]
 }
