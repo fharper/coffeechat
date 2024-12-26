@@ -1118,6 +1118,30 @@
                 "Metal Music"
             ],
             "website": "https://mb-consulting.dev"
+        },
+        {
+            "city": “London”,
+            "company": “Anvil”,
+            "country": “United Kingdom”,
+            "github": "https://github.com/coding-with-ryan",
+            "languages": ["English"],
+            "linkedin": "https://www.linkedin.com/in/ryan-britnell/",
+            "name": “Ryan Britnell“,
+            "online-only": true,
+            "scheduling": "https://calendly.com/britnell-ryan/30min",
+            "title": “Developer “Advocate,
+            "topics": [
+                "Python”,
+                “Web Dev”,
+                “Dev Advocacy”,
+                “Community Building“,
+                "Public Speaking",
+                “Anvil”,
+                "HTML”,
+                "CSS”,
+                “Developer Marketing”
+            ],
+            "website": "https://codingwithryan.com/"
         }
     ]
 }
