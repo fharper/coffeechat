@@ -1118,6 +1118,42 @@
                 "Metal Music"
             ],
             "website": "https://mb-consulting.dev"
+        },
+        {
+            "city":"Bologna",
+            "company":"Freelance/Independent Consultant",
+            "country":"Italy",
+            "github": "https://github.com/melanyss",
+            "twitter":"https://x.com/MelanysFT/?utm_source=coffeechat&ref=coffeechat",
+            "website":"https://melanys.me/?utm_source=coffeechat&ref=coffeechat",
+            "linkedin":"https://www.linkedin.com/in/melanysft/",
+            "name":"Melanys Figueredo Toledano",
+            "languages":[
+               "English",
+               "Italian",
+               "Spanish"
+            ],
+            "scheduling":"mailto:contact@melanys.me",
+            "title":"MarTech Consultant & Full-Stack Engineer",
+            "online-only":true,
+            "topics":[
+               "Web Development",
+               "Customer Data Platforms (CDPs)",
+               "Tag Management Systems (Tealium, GTM)",
+               "Marketing Technology (MarTech)",
+               "SaaS Development",
+               "Starting in Tech",
+               "Job Searching",
+               "Remote Work",
+               "Career Transitions",
+               "Freelancing",
+               "Building a Personal Brand",
+               "Imposter Syndrome",
+               "Women in Tech",
+               "Latinx in Tech",
+               "Personal Growth",
+               "Overcoming Adversity"
+            ]
         }
     ]
 }
