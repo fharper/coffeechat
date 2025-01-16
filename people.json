@@ -1098,7 +1098,7 @@
             "country": "Netherlands",
             "github": "https://github.com/mbianchidev",
             "twitter": "https://mbianchidev.bsky.social/",
-            "languages": ["English","Italian"],
+            "languages": ["English", "Italian"],
             "linkedin": "https://www.linkedin.com/in/mbianchidev",
             "name": "Matteo Bianchi",
             "online-only": true,
@@ -1125,11 +1125,7 @@
             "company": "Freelance/Independent Consultant",
             "city": "Bologna",
             "country": "Italy",
-            "languages": [
-                "English",
-                "Italian",
-                "Spanish"
-            ],
+            "languages": ["English", "Italian", "Spanish"],
             "website": "https://melanys.me/?utm_source=coffeechat&ref=coffeechat",
             "github": "https://github.com/melanyss",
             "linkedin": "https://www.linkedin.com/in/melanysft/",
