@@ -4,6 +4,10 @@
   import '../app.scss';
 </script>
 
+<svelte:head>
+  <title>Coffee chats</title>
+</svelte:head>
+
 <Navbar />
 
 <slot />
