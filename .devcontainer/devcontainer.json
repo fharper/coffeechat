@@ -1,0 +1,18 @@
+{
+  "image": "ghcr.io/mrsimonemms/devcontainers/full",
+  "name": "devcontainer",
+  "features": {},
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "ms-vscode.makefile-tools",
+        "esbenp.prettier-vscode",
+        "svelte.svelte-vscode"
+      ],
+      "settings": {}
+    }
+  },
+  "containerEnv": {
+    "VITE_HOST": "0.0.0.0"
+  }
+}

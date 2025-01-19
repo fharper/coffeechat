@@ -1,0 +1,49 @@
+name: Build web app
+
+on: [push, workflow_dispatch, pull_request]
+
+jobs:  
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up JS
+        uses: actions/setup-node@v3
+        with:
+          node-version: lts/*
+          cache: npm
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Lint
+        run: npm run lint
+
+      - name: Build
+        run: |
+          npm run build
+          touch build/.nojekyll
+
+      - name: Upload Artifacts
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: 'build/'
+
+  deploy:
+    runs-on: ubuntu-latest
+    if: github.ref == 'refs/heads/main'
+    needs:
+      - build
+    permissions:
+      pages: write
+      id-token: write
+        
+    environment:
+      name: github-pages
+      url: {{ '${{ steps.deployment.outputs.page_url }}' }}
+        
+    steps:
+      - name: Deploy
+        id: deployment
+        uses: actions/deploy-pages@v4
