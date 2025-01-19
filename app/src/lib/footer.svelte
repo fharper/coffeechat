@@ -5,6 +5,11 @@
 <footer class="footer">
   <div class="content has-text-centered">
     <p>
+      <a href="https://www.flaticon.com/free-icons/latte-art" target="_blank"
+        >Latte art icons created by nangicon - Flaticon</a
+      >
+    </p>
+    <p>
       The idea of a coffee chat resource list is coming from <a
         href="https://www.linkedin.com/in/julienlengrand/"
         target="_blank"

@@ -1,5 +1,6 @@
 <script lang="ts">
   import githubIcon from '$lib/icons/github.svg';
+  import logo from '$lib/icons/logo.png';
 </script>
 
 <nav class="navbar" aria-label="main navigation">
@@ -9,6 +10,7 @@
         class="navbar-item has-text-white is-size-2 has-text-weight-bold"
         href="/"
       >
+        <img src={logo} alt="Logo" />
         Coffee Chats
       </a>
 
