@@ -1,1 +1,3 @@
 @use 'bulma/sass';
+
+@use '@mdi/font/scss/materialdesignicons' with($mdi-font-path: '/fonts');
