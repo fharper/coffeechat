@@ -13,3 +13,7 @@ Note that your commit need to be signed to ensure the authenticity of the person
 ## Remove yourself from this list
 
 Simply create a pull request by removing your people definition from [people.json](https://github.com/fharper/coffeechat/blob/main/people.json).
+
+## Any other contributions
+
+If you want to contribute to this repository in any other capacity than adding or removing yourself as someone offering a free coffee chat (i.e., adding a feature, fixing a bug...), please create an issue first so we can discuss about it. I have a clear vision about what I want and don't want with this repository (bottom line, I want to keep this as simple as possible to maintain), so the last thing I want is having anyone spend time on something that wouldn't be used.
