@@ -6,7 +6,7 @@ PLACEHOLDER
 
 ## Add yourself to this list
 
-See [CONTRIBUTING.md](CONTRIBUTING.md) for more information.
+See [CONTRIBUTING.md](CONTRIBUTING.md) for more information. Note that having your name listed here will probably help you get coffee chats scheduled, but nothing is guaranteed, so the best way will always be for you to promote your coffee chats within your network and on social media.
 
 ## Acknowledgements
 
