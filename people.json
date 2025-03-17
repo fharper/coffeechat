@@ -1150,6 +1150,34 @@
                 "Personal Growth",
                 "Overcoming Challenges"
             ]
+        },
+        {
+            "name": "Anna Pastushko",
+            "title": "AWS Solutions Architect",
+            "company": "Independent Consultant",
+            "city": "Kharkiv",
+            "country": "Ukraine",
+            "languages": ["English", "Ukrainian", "Russian"],
+            "website": "https://annpastushko.substack.com",
+            "linkedin": "https://www.linkedin.com/in/annpastushko/",
+            "twitter": "",
+            "github": "https://github.com/ChildishGirl",
+            "scheduling": "mailto:annapastushko@gmail.com",
+            "online-only": true,
+            "topics": [
+                "AWS services",
+                "AWS Community Builders",
+                "Cloud Architecture",
+                "Architecture frameworks",
+                "AI/ML infrastructure",
+                "MLOps",
+                "Data platforms",
+                "Python",
+                "Go",
+                "IaC",
+                "Problem solving",
+                "Women in Tech"
+            ]
         }
     ]
 }
