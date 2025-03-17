@@ -24,12 +24,6 @@ jobs:
         with:
           node-version: 'v20.12.2'
 
-      - name: Restore Node.js modules (or cache them)
-        uses: actions/cache@v4.0.2
-        with:
-          path: ~/.npm
-          key: ${{ runner.os }}-npm-${{ hashFiles('package-lock.json') }}
-
       - name: Installing dependencies
         working-directory: ./scripts
         run: npm install
