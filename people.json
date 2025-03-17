@@ -1178,6 +1178,36 @@
                 "Problem solving",
                 "Women in Tech"
             ]
+        },
+        {
+            "name": "David G. Simmmons",
+            "title": "DevRel Professional",
+            "company": "Between jobs",
+            "city": "Apex",
+            "country": "USA",
+            "languages": ["English"],
+            "website": "https://davidgs.com",
+            "linkedin": "https://dgs.st/linked/",
+            "twitter": "https://dgs.st/twit",
+            "github": "https://github.com/davidgs",
+            "scheduling": "https://dgs.st/mycal",
+            "online-only": true,
+            "topics": [
+                "DevRel",
+                "IoT",
+                "Arduino",
+                "Embedded Programing",
+                "Time Series Databases",
+                "Career",
+                "Mentoring",
+                "Go",
+                "TypeScript",
+                "Problem solving",
+                "TypeScript",
+                "3D Printing",
+                "Mental Health",
+                "General Support"
+            ]
         }
     ]
 }
