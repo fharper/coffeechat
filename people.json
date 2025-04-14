@@ -1207,6 +1207,32 @@
                 "Mental Health",
                 "General Support"
             ]
+        },
+        {
+            "name": "Mark C Allen",
+            "title": "DevOps Engineer",
+            "company": "DevCycle",
+            "city": "Vancouver",
+            "country": "Canada",
+            "languages": [
+                "English"
+            ],
+            "website": "https://www.markcallen.com",
+            "linkedin": "https://www.linkedin.com/in/markcallen/",
+            "twitter": "https://x.com/markcallen",
+            "github": "https://github.com/markcallen",
+            "scheduling": "https://www.markcallen.com/book-some-time/",
+            "online-only": true,
+            "topics": [
+                "DevOps",
+                "Kubernetes",
+                "Continuous Deployment",
+                "Infrastructure as Code",
+                "Feature Flags",
+                "TypeScript",
+                "DevRel",
+                "Startups"
+            ]
         }
     ]
 }
