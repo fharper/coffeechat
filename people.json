@@ -227,6 +227,33 @@
             ]
         },
         {
+            "name": "Kwok He Chu",
+            "title": "Developer Advocate",
+            "company": "Adyen",
+            "city": "Amsterdam",
+            "country": "The Netherlands",
+            "languages": [
+                "Dutch",
+                "English"
+            ],
+            "linkedin": "https://www.linkedin.com/in/kwokhechu",
+            "twitter": "https://twitter.com/adyendevs",
+            "scheduling": "https://calendar.app.google/hKbvzwQf59tB2iVq9",
+            "online-only": true,
+            "topics": [
+                "API Libraries/SDKs",
+                "C# / .NET",
+                "Developer Advocacy",
+                "Developer Relations",
+                "Game Development",
+                "Job Search",
+                "OpenAPI Specifications",
+                "Starting in Tech",
+                "Software Engineering",
+                "Piano & Orchestrations"
+            ]
+        },
+        {
             "name": "Zachary Powell",
             "title": "Sr Android Developer Advocate",
             "company": "Vonage",
