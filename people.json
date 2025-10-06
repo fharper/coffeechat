@@ -1384,6 +1384,37 @@
                 "DevRel",
                 "Startups"
             ]
+        },
+        {
+            "name": "Fabio Alessandro Locati",
+            "title": "Principal Specialist Solution Architect",
+            "company": "Red Hat",
+            "city": "Milan",
+            "country": "Italy",
+            "languages": [
+                "English",
+                "Italian"
+            ],
+            "website": "https://fale.io",
+            "linkedin": "https://www.linkedin.com/in/fale",
+            "github": "https://github.com/fale",
+            "mastodon": "https://gts.fale.io/@fale",
+            "scheduling": "https://calendar.app.google/8vmnXSFTkSZXjdMs7",
+            "online-only": false,
+            "topics": [
+                "Ansible",
+                "Automation",
+                "Cloud-native",
+                "Community",
+                "DevOps",
+                "Fedora",
+                "Linux",
+                "Mentoring",
+                "Open-Source",
+                "Public Speaking",
+                "Starting in Tech",
+                "Tech"
+            ]
         }
     ]
 }
