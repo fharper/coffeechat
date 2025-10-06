@@ -1,6 +1,35 @@
 {
     "people": [
         {
+            "name": "Bas Steins",
+            "title": "Software Engineer",
+            "company": "bas.codes",
+            "city": "N/A",
+            "country": "N/A",
+            "languages": [
+                "English",
+                "German"
+            ],
+            "website": "https://bas.codes",
+            "linkedin": "https://www.linkedin.com/in/bascodes",
+            "twitter": "https://twitter.com/bascodes",
+            "github": "https://github.com/sebst",
+            "scheduling": "https://bas.coffee",
+            "online-only": true,
+            "topics": [
+                "Software Development",
+                "Serverless",
+                "Developer Productivity",
+                "Developer Environments",
+                "Python",
+                "Mentoring",
+                "Beekeeping",
+                "BBQ",
+                "Health & Fitness",
+                "Anything..."
+            ]
+        },
+        {
             "name": "Simon Emms",
             "title": "Engineer",
             "company": "Kubefirst",
