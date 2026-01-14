@@ -1444,6 +1444,38 @@
                 "Starting in Tech",
                 "Tech"
             ]
+        },
+        {
+            "name": "Ayodeji Ogundare",
+            "title": "Developer Advocate",
+            "company": "Adyen",
+            "city": "Amsterdam",
+            "country": "Netherlands",
+            "languages": [
+                "English",
+                "Yoruba"
+            ],
+            "website": "https://ayodeji.dev",
+            "linkedin": "https://www.linkedin.com/in/ayodeji-ogundare",
+            "github": "https://github.com/ayodejidev",
+            "twitter": "https://x.com/ayodejidev",
+            "scheduling": "https://calendar.app.google/WA2bn61n6QhcvVPd9",
+            "online-only": false,
+            "topics": [
+                "Career in Tech",
+                "Community",
+                "DevRel",
+                "Community",
+                "DevX",
+                "GitHub",
+                "Home lab setup",
+                "InnerSource",
+                "Open Source",
+                "Mentoring",
+                "Open Source Program Office",
+                "Platform Engineering",
+                "Public Speaking"
+            ]
         }
     ]
 }
