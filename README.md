@@ -59,8 +59,9 @@ List of awesome people offering their time **for free** to have a "coffee chat" 
 | **[Vishruth Harithsa](https://calendly.com/theharithsa)** | [Website](https://theharithsa.com)<br/>[LinkedIn](https://www.linkedin.com/in/theharithsa)<br/>[Twitter](https://twitter.com/theharithsa) | Engagement Manager at Dynatrace | English<br/>Hindi | AMA on Technology<br/>Algorithm Design<br/>JavaScript<br/>Mentoring on Technology<br/>Observability<br/>Software Development<br/>Teach me something interesting |
 | **[Wilbur Suero](https://calendly.com/suerowilbur/30min)** | [LinkedIn](https://www.linkedin.com/in/wilbursuero)<br/>[Twitter](https://twitter.com/wilburhimself) | Software Engineer at N/A | English<br/>Spanish | Developer Experience<br/>React<br/>Ruby on Rails<br/>Software Engineering<br/>Tech<br/>Web |
 | **[Hajira Sultana](https://topmate.io/hudahajira/)** | [LinkedIn](https://www.linkedin.com/in/hudahajira/)<br/>[Twitter](https://x.com/hudahajira)<br/>[GitHub](https://github.com/huda-code)<br/>[Website](https://hudahajira.com/) | Full-stack Developer / Cybersecurity Researcher | English<br/>Hindi<br/>Urdu | Cybersecurity, Full-stack Development, Mentorship, Tech Community, Entrepreneurship, Startups, Incubator |
-
 | **[Zachary Powell](https://calendar.app.google/kf8WKmRbxbkkxhbR6)** | [LinkedIn](https://www.linkedin.com/in/zachary-mg-powell)<br/>[Twitter](https://twitter.com/devwithzachary) | Sr Android Developer Advocate at Vonage | English | Android<br/>DevRel<br/>Developer Relations<br/>Job Searching<br/>Mobile<br/>Software Engineering<br/>Starting in Tech<br/>Tech |
+
+
 
 ## Add yourself to this list
 
@@ -69,3 +70,4 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for more information. Note that having yo
 ## Acknowledgements
 
 The idea of a coffee chat resource list is coming from [Julien Lengrand-Lambert.](https://www.linkedin.com/in/julienlengrand/).
+
