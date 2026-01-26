@@ -1415,6 +1415,34 @@
             ]
         },
         {
+    "name": "Hajira Sultana",
+    "title": "Full-stack Developer / Cybersecurity Researcher",
+    "company": "Next Generation Technology",
+    "city": "Chicago",
+    "country": "USA",
+    "languages": [
+        "English",
+        "Hindi",
+        "Urdu"
+    ],
+    "website": "https://hudahajira.com/",
+    "linkedin": "https://www.linkedin.com/in/hudahajira/",
+    "twitter": "https://x.com/hudahajira",
+    "github": "https://github.com/huda-code",
+    "scheduling": "https://topmate.io/hudahajira",
+    "online-only": false,
+    "topics": [
+        "Cybersecurity",
+        "Full-stack Development",
+        "Mentorship",
+        "Tech Community",
+        "Entrepreneurship",
+        "Startups",
+        "Incubator"
+    ]
+},
+
+        {
             "name": "Fabio Alessandro Locati",
             "title": "Principal Specialist Solution Architect",
             "company": "Red Hat",
